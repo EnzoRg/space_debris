@@ -1,9 +1,5 @@
 # Archivos
 /coordinacion
-/sandbox
-/mlruns
-/notebooks
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
