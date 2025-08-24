@@ -1,14 +1,41 @@
 # 3. Aprendizaje Supervisado y/o No Supervisado
 
-En esta etapa se abordará el problema desde el punto de vista del aprendizaje automático. 
+En esta última etapa se abordará el problema desde el punto de vista del aprendizaje automático, definiendo si el objetivo principal corresponde a un problema de predicción, clasificación, regresión o agrupamiento.
 
-Se definirá si el objetivo principal es un problema de regresión (por ejemplo, predecir la cantidad de desechos espaciales a futuro) o de clasificación (por ejemplo, determinar si un objeto en órbita es funcional o no).
+Con los datos ya procesados y consolidados en un único dataset, se avanzará en el entrenamiento de modelos, comenzando con un modelo base que sirva como punto de referencia para comparar el desempeño de modelos más complejos.
 
-Con los datos ya procesados, se avanzará en el entrenamiento de modelos, comenzando con uno básico (baseline) como punto de comparación. 
+Posteriormente se explorarán algoritmos más avanzados (Random Forest, Gradient Boosting, Support Vector Machines, Redes Neuronales, etc.) en función de la naturaleza del problema y de las características de los datos.
 
-Se evaluarán distintas métricas según el tipo de problema, y se realizarán ajustes de hiperparámetros para optimizar los resultados.
+## Aspectos a considerar:
 
-En el caso del aprendizaje no supervisado, se aplicarán técnicas de clustering para descubrir agrupamientos entre los objetos en órbita (por tamaño, tipo de misión, órbita, etc.) que puedan ayudar a entender patrones en la distribución del desecho espacial.
+- Definir el tipo de aprendizaje:
+    - Supervisado: clasificación o regresión.
+    - No supervisado: clustering, reducción de dimensionalidad.
+
+- Métricas de evaluación según el caso:
+    - Clasificación: Accuracy, Precision, Recall, F1-score, ROC-AUC, Matriz de confusión.
+    - Regresión: RMSE, MAE, R².
+    - Clustering: Silhouette Score, Davies-Bouldin Index, Calinski-Harabasz.
+
+- Validación y partición de datos:
+    - K-Fold Cross Validation para asegurar la robustez de los modelos.
+    - Train/Validation/Test split para medir el rendimiento real fuera de muestra.
+
+- Ajuste de hiperparámetros:
+    - Comparar GridSearchCV vs RandomizedSearchCV vs Bayesian Optimization para encontrar configuraciones óptimas.
+
+- Regularización y complejidad:
+    - Evitar overfitting utilizando técnicas como early stopping, penalizaciones L1/L2 o pruning en árboles.
+
+- Reducción de dimensionalidad:
+    - Explorar PCA, t-SNE o UMAP para mejorar el rendimiento y la visualización de datos de alta dimensión.
+
+- Comparación de modelos:
+    - Documentar y comparar los resultados de distintos algoritmos.
+    - Seleccionar el modelo final en función de la métrica más relevante para los objetivos del proyecto.
+
+Se recomienda ver el [notebook de ejemplo](../notebooks/students_performance.ipynb) para comprender y aplicar los distintos tipos de aprendizaje.
+
 
 ##
 <p align="right">Siguiente | <b><a href="resultados.md">Resultados y Conclusiones</a></b>
