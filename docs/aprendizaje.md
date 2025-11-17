@@ -25,7 +25,7 @@ Posteriormente se explorarán algoritmos más avanzados (Random Forest, Gradient
     - Comparar GridSearchCV vs RandomizedSearchCV vs Bayesian Optimization para encontrar configuraciones óptimas.
 
 - Regularización y complejidad:
-    - Evitar overfitting utilizando técnicas como early stopping, penalizaciones L1/L2 o pruning en árboles.
+    - Evitar overfitting utilizando early stopping, penalizaciones L1/L2 o pruning en árboles.
 
 - Reducción de dimensionalidad:
     - Explorar PCA, t-SNE o UMAP para mejorar el rendimiento y la visualización de datos de alta dimensión.

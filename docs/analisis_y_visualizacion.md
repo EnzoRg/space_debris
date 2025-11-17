@@ -1,8 +1,6 @@
 # 1. Análisis y Visualización
 
-<img src="../data/images/evolution_in_all_orbits.jpeg" alt="Evolución según las órbitas" width="500"/>  
-
-En la primer parte, se busca comprender el conjunto de datos y familiarizarse con las variables disponibles en los diferentes archivos: número de satélites, tipo de misión, vida útil estimada, tipo de órbita, país o entidad responsable, fecha de lanzamiento, entre otros. 
+En la primer parte se busca comprender el conjunto de datos y familiarizarse con las variables en los diferentes archivos: número de satélites, tipo de misión, vida útil estimada, tipo de órbita, país o entidad responsable, fecha de lanzamiento, entre otros. 
 
 Se realizará una primera exploración para entender la cantidad y calidad de los datos. 
 
