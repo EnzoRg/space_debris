@@ -1,4 +1,4 @@
-# 1. Análisis y Visualización
+# Análisis y Visualización
 
 En la primer parte se busca comprender el conjunto de datos y familiarizarse con las variables en los diferentes archivos: número de satélites, tipo de misión, vida útil estimada, tipo de órbita, país o entidad responsable, fecha de lanzamiento, entre otros. 
 

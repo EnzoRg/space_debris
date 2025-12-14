@@ -1,4 +1,4 @@
-# 3. Aprendizaje Supervisado y/o No Supervisado
+# Aprendizaje Supervisado y/o No Supervisado
 
 En esta última etapa se abordará el problema desde el punto de vista del aprendizaje automático, definiendo si el objetivo principal corresponde a un problema de predicción, clasificación, regresión o agrupamiento.
 

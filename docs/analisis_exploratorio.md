@@ -1,16 +1,17 @@
-# 2. Análisis Exploratorio y Curación de Datos
+# Análisis Exploratorio y Curación de Datos
 
 La segunda parte estará enfocada en realizar un análisis más profundo de los datos en los distintos archivos con el objetivo de saber entender y explicar los datos con los que estan trabajando. Se busca poder identificar valores faltantes, duplicados o inconsistentes y se definirán estrategias para su tratamiento.
 
 Se evaluará si todas las variables son relevantes para los objetivos del proyecto, o si algunas pueden descartarse para luego crear un **unico dataset**. También se explorará la generación de nuevas variables que aporten mayor valor. Asimismo, se buscará detectar valores atípicos y analizar si son errores o fenómenos significativos que deben conservarse. Se sugiere utilizar complementos que ayuden al analisis de datos como [Ydata-profiling](https://docs.profiling.ydata.ai/latest/getting-started/quickstart/) o [Sweetviz](https://pypi.org/project/sweetviz/).
 
+
 Sugerencias para el análisis:
-- El tipo de dato a utilizar (o convertir) en las variables `int`, `float`, `datetime`, etc.
-- ¿Es `.json` la mejor forma de guardar los datos?
+- Estandarizar el tipo de dato a utilizar (o convertir) en las variables: `int`, `float`, `datetime`, etc.
 - Segun los datos ¿Conviene usar `StandardScaler`, `MinMaxScaler` u otro método para escalar?
 -  ¿Cuando utilizar `OneHotEncoder`, `OrdinalEncoder` y/o `LabelEncoder` para las variables categoricas? 
 - Elegir y comparar el mejor metodo de imputacion según los datos faltantes.
 - Determinar como van a separar los datos en *entrenamiento*, *evaluacion* y *test*.
+- Validar los datos siguiendo cierta lógica.
 - **Comparar los datos antes y despues de realizar EDA**.
 
 
