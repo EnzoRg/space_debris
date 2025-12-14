@@ -1,15 +1,11 @@
 # Resultados y Conclusiones 
 
-Durante el año 2025, los alumnos realizaron el proyecto final en el marco de la Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones. 
-
-
-
-
-
-, los alumnos realizaron una serie de videos donde 
-[video](https://diplodatos.famaf.unc.edu.ar/metodologia-y-modalidad-de-cursado/mentorias/mentorias-trabajos-finales-2025/m15-2025/) asd
+En el marco de la Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones, los alumnos realizaron una serie de [videos](https://diplodatos.famaf.unc.edu.ar/metodologia-y-modalidad-de-cursado/mentorias/mentorias-trabajos-finales-2025/m15-2025/) donde muestran los resultados obtenidos: 
 
 <img src="data/images/presentaciones_2025.png" alt="Presentaciones 2025" width="500"/>  
+
+
+
 
 
 ##
