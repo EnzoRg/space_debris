@@ -7,7 +7,7 @@
 ## 📌 Descripción y objetivos del proyecto  
 En la última década, el número de satélites en órbita ha crecido exponencialmente debido a los avances tecnológicos y la reducción de costos (New Space). Sin embargo, hay un problema que vino de la mano y que hasta hace poco tiempo no era considerado importante: [**los desechos espaciales**](https://www.argentina.gob.ar/sinagir/riesgos-frecuentes/chatarra-espacial). Estos desechos van desde satélites fuera de servicio hasta naves espaciales abandonadas y escombros de misiones fallidas. 
 
-Según la [NASA](https://svs.gsfc.nasa.gov/5258/) y [ESA](https://sdup.esoc.esa.int/discosweb/statistics/), actualmente hay más de 30.000 objetos rastreados en órbita, y tambien se lleva un [registros](https://spacesecurity.wse.jhu.edu/space-collisions/) de las colisiones a lo largo del tiempo. Se pronostica que, con el paso del tiempo, las dificultades se irán multiplicando. Es por esto que se necesita lograr dar una solución efectiva al asunto.
+Según la [NASA](https://svs.gsfc.nasa.gov/5258/) y [ESA](https://sdup.esoc.esa.int/discosweb/statistics/), actualmente hay más de 30.000 objetos rastreados en órbita, y tambien se lleva un [registro](https://spacesecurity.wse.jhu.edu/space-collisions/) de las colisiones a lo largo del tiempo. Se pronostica que, con el paso del tiempo, las dificultades se irán multiplicando. Es por esto que se necesita lograr dar una solución efectiva al asunto.
 
 El objetivo de este proyecto es desarrollar un modelo predictivo y de clasificación de objetos en órbita terrestre. El modelado se llevará a cabo mediante técnicas de Aprendizaje Supervisado y/o No Supervisado.
 
