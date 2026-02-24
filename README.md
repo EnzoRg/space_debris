@@ -1,8 +1,8 @@
-# Proyecto de Mentoría - DiploDatos 2025  
+# Propuesta de Proyecto de Mentoría - DiploDatos 2026 
 
 # 🛰🌎 **Predicciones en el Espacio: ¿Cuántos satélites y desechos podremos tener?**  
 
-<img src="data/images/portada.png" alt="Portada desechos espaciales" width="500"/>  
+<img src="data/images/cover_image.png" alt="Portada desechos espaciales" width="500"/>  
 
 ## 📌 Descripción y objetivos del proyecto  
 En la última década, el número de satélites en órbita ha crecido exponencialmente debido a los avances tecnológicos y la reducción de costos (New Space). Sin embargo, hay un problema que vino de la mano y que hasta hace poco tiempo no era considerado importante: [**los desechos espaciales**](https://www.argentina.gob.ar/sinagir/riesgos-frecuentes/chatarra-espacial). Estos desechos van desde satélites fuera de servicio hasta naves espaciales abandonadas y escombros de misiones fallidas. 
