@@ -1,0 +1,12 @@
+services:
+  space-track:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    volumes:
+      - ./:/workspace
+    command: sleep infinity
+    stdin_open: true
+    tty: true
