@@ -1,8 +1,11 @@
 import os
 import requests
 import json
+from dotenv import load_dotenv
 
-# Usuario 
+
+# Cargar credenciales
+load_dotenv()
 USERNAME = os.getenv("SPACETRACK_USERNAME")
 PASSWORD = os.environ.get("SPACETRACK_PASSWORD")
 
@@ -37,7 +40,7 @@ def obtener_datos(query_url, filename):
         else:
             print(f"Error en el login ({response.status_code})")
 
-obtener_datos(QUERY_SATELLITES, "data/raw/satellites.json")
-obtener_datos(QUERY_DEBRIS, "data/raw/debris.json")
-obtener_datos(QUERY_ROCKETS, "data/raw/rockets.json")
-obtener_datos(QUERY_UNKNOWN, "data/raw/unknown.json")
+obtener_datos(QUERY_SATELLITES, "data/space_track/satellites.json")
+obtener_datos(QUERY_DEBRIS, "data/space_track/debris.json")
+obtener_datos(QUERY_ROCKETS, "data/space_track.json")
+obtener_datos(QUERY_UNKNOWN, "data/space_track/unknown.json")
