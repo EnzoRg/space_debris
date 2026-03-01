@@ -34,6 +34,8 @@ El proyecto busca responder las siguientes preguntas:
 - **¿Qué países generan más desechos en el espacio?**  
 - **¿Podemos predecir la cantidad de desechos espaciales en los próximos años?**  
 
+- CUAL ES EL TAMAÑO DE LOS OBJETOS RASTREADOS QUE ORBITAN LA TIERRA
+
 ## 🗃 Datos  
 
 La información fue extraída de [Space-Track.org](https://www.space-track.org/), operado por U.S. Space Force del Departamento de Defensa de los Estados Unidos.
