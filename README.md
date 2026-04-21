@@ -1,4 +1,4 @@
-# Propuesta de Proyecto de Mentoría - DiploDatos 2026 
+# Proyecto de Mentoría - DiploDatos 2026 
 
 # 🛰🌎 **Predicciones en el Espacio: ¿Cuántos satélites y desechos podremos tener?**  
 
