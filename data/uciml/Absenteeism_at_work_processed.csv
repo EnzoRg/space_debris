@@ -1,0 +1,741 @@
+ID;Reason for absence;Month of absence;Day of the week;Seasons;Transportation expense;Distance from Residence to Work;Service time;Age;Work load Average/day ;Hit target;Disciplinary failure;Education;Son;Social drinker;Social smoker;Pet;Weight;Height;Body mass index;Absenteeism time in hours
+11;Unjustified absence;7;Tuesday;1;289;36;13;33;239.554;97;No;High School;2;Yes;No;1;90;172;30;4
+36;NA;7;Tuesday;1;118;13;18;50;239.554;97;Yes;High School;1;Yes;No;0;98;178;31;0
+3;Medical consultation;7;Wednesday;1;179;51;18;38;239.554;97;No;High School;0;Yes;No;0;89;170;31;2
+7;Diseases of the eye and adnexa;7;Thursday;1;279;5;14;39;239.554;97;No;High School;2;Yes;Yes;0;68;168;24;4
+11;Medical consultation;7;Thursday;1;289;36;13;33;239.554;97;No;High School;2;Yes;No;1;90;172;30;2
+3;Medical consultation;7;Friday;1;179;51;18;38;239.554;97;No;High School;0;Yes;No;0;89;170;31;2
+10;Patient follow-up;7;Friday;1;361;52;3;28;239.554;97;No;High School;1;Yes;No;4;80;172;27;8
+20;Medical consultation;7;Friday;1;260;50;11;36;239.554;97;No;High School;4;Yes;No;0;65;168;23;4
+14;Injury, poisoning and certain other consequences of external causes;7;Monday;1;155;12;14;34;239.554;97;No;High School;2;Yes;No;0;95;196;25;40
+1;Patient follow-up;7;Monday;1;235;11;14;37;239.554;97;No;Postgraduate;1;No;No;1;88;172;29;8
+20;Certain infectious and parasitic diseases;7;Monday;1;260;50;11;36;239.554;97;No;High School;4;Yes;No;0;65;168;23;8
+20;Certain infectious and parasitic diseases;7;Tuesday;1;260;50;11;36;239.554;97;No;High School;4;Yes;No;0;65;168;23;8
+20;Diseases of the digestive system;7;Wednesday;1;260;50;11;36;239.554;97;No;High School;4;Yes;No;0;65;168;23;8
+3;Diseases of the digestive system;7;Wednesday;1;179;51;18;38;239.554;97;No;High School;0;Yes;No;0;89;170;31;1
+3;Medical consultation;7;Wednesday;1;179;51;18;38;239.554;97;No;High School;0;Yes;No;0;89;170;31;4
+24;Diseases of the genitourinary system;7;Friday;1;246;25;16;41;239.554;97;No;High School;0;Yes;No;0;67;170;23;8
+3;Medical consultation;7;Friday;1;179;51;18;38;239.554;97;No;High School;0;Yes;No;0;89;170;31;2
+3;Factors influencing health status and contact with health services;7;Monday;1;179;51;18;38;239.554;97;No;High School;0;Yes;No;0;89;170;31;8
+6;Diseases of the digestive system;7;Thursday;1;189;29;13;33;239.554;97;No;High School;2;No;No;2;69;167;25;8
+33;Medical consultation;8;Wednesday;1;248;25;14;47;205.917;92;No;High School;2;No;No;1;86;165;32;2
+18;Diseases of the respiratory system;8;Wednesday;1;330;16;4;28;205.917;92;No;Graduate;0;No;No;0;84;182;25;8
+3;Diseases of the digestive system;8;Monday;1;179;51;18;38;205.917;92;No;High School;0;Yes;No;0;89;170;31;1
+10;Diseases of the musculoskeletal system and connective tissue;8;Monday;1;361;52;3;28;205.917;92;No;High School;1;Yes;No;4;80;172;27;40
+20;Dental consultation;8;Friday;1;260;50;11;36;205.917;92;No;High School;4;Yes;No;0;65;168;23;4
+11;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;8;Monday;1;289;36;13;33;205.917;92;No;High School;2;Yes;No;1;90;172;30;8
+10;Laboratory examination;8;Monday;1;361;52;3;28;205.917;92;No;High School;1;Yes;No;4;80;172;27;7
+11;Medical consultation;8;Tuesday;1;289;36;13;33;205.917;92;No;High School;2;Yes;No;1;90;172;30;1
+30;Dental consultation;8;Wednesday;1;157;27;6;29;205.917;92;No;High School;0;Yes;Yes;0;75;185;22;4
+11;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;8;Wednesday;1;289;36;13;33;205.917;92;No;High School;2;Yes;No;1;90;172;30;8
+3;Medical consultation;8;Friday;1;179;51;18;38;205.917;92;No;High School;0;Yes;No;0;89;170;31;2
+3;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;8;Monday;1;179;51;18;38;205.917;92;No;High School;0;Yes;No;0;89;170;31;8
+2;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;8;Thursday;1;235;29;12;48;205.917;92;No;High School;1;No;Yes;5;88;163;33;8
+1;Medical consultation;8;Thursday;1;235;11;14;37;205.917;92;No;Postgraduate;1;No;No;1;88;172;29;4
+2;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;8;Monday;1;235;29;12;48;205.917;92;No;High School;1;No;Yes;5;88;163;33;8
+3;Medical consultation;8;Monday;1;179;51;18;38;205.917;92;No;High School;0;Yes;No;0;89;170;31;2
+10;Medical consultation;8;Monday;1;361;52;3;28;205.917;92;No;High School;1;Yes;No;4;80;172;27;1
+11;Blood donation;8;Tuesday;1;289;36;13;33;205.917;92;No;High School;2;Yes;No;1;90;172;30;8
+19;Diseases of the digestive system;8;Thursday;1;291;50;12;32;205.917;92;No;High School;0;Yes;No;0;65;169;23;4
+2;Dental consultation;8;Friday;1;235;29;12;48;205.917;92;No;High School;1;No;Yes;5;88;163;33;8
+20;Medical consultation;8;Friday;1;260;50;11;36;205.917;92;No;High School;4;Yes;No;0;65;168;23;4
+27;Medical consultation;9;Tuesday;1;184;42;7;27;241.476;92;No;High School;0;No;No;0;58;167;21;2
+34;Medical consultation;9;Monday;1;118;10;10;37;241.476;92;No;High School;0;No;No;0;83;172;28;4
+3;Medical consultation;9;Tuesday;1;179;51;18;38;241.476;92;No;High School;0;Yes;No;0;89;170;31;4
+5;Injury, poisoning and certain other consequences of external causes;9;Tuesday;1;235;20;13;43;241.476;92;No;High School;1;Yes;No;0;106;167;38;8
+14;Medical consultation;9;Wednesday;1;155;12;14;34;241.476;92;No;High School;2;Yes;No;0;95;196;25;2
+34;Medical consultation;9;Monday;1;118;10;10;37;241.476;92;No;High School;0;No;No;0;83;172;28;3
+3;Medical consultation;9;Tuesday;1;179;51;18;38;241.476;92;No;High School;0;Yes;No;0;89;170;31;3
+15;Medical consultation;9;Thursday;1;291;31;12;40;241.476;92;No;High School;1;Yes;No;1;73;171;25;4
+20;Patient follow-up;9;Friday;1;260;50;11;36;241.476;92;No;High School;4;Yes;No;0;65;168;23;8
+15;Diseases of the genitourinary system;9;Monday;4;291;31;12;40;241.476;92;No;High School;1;Yes;No;1;73;171;25;32
+20;NA;9;Monday;4;260;50;11;36;241.476;92;Yes;High School;4;Yes;No;0;65;168;23;0
+29;NA;9;Monday;4;225;26;9;28;241.476;92;Yes;High School;1;No;No;2;69;169;24;0
+28;Medical consultation;9;Tuesday;4;225;26;9;28;241.476;92;No;High School;1;No;No;2;69;169;24;2
+34;Medical consultation;9;Tuesday;4;118;10;10;37;241.476;92;No;High School;0;No;No;0;83;172;28;2
+11;NA;9;Tuesday;4;289;36;13;33;241.476;92;Yes;High School;2;Yes;No;1;90;172;30;0
+36;NA;9;Tuesday;4;118;13;18;50;241.476;92;Yes;High School;1;Yes;No;0;98;178;31;0
+28;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;9;Wednesday;4;225;26;9;28;241.476;92;No;High School;1;No;No;2;69;169;24;3
+3;Medical consultation;9;Wednesday;4;179;51;18;38;241.476;92;No;High School;0;Yes;No;0;89;170;31;3
+13;NA;9;Wednesday;4;369;17;12;31;241.476;92;Yes;High School;3;Yes;No;0;70;169;25;0
+33;Medical consultation;9;Friday;4;248;25;14;47;241.476;92;No;High School;2;No;No;1;86;165;32;1
+3;Medical consultation;9;Friday;4;179;51;18;38;241.476;92;No;High School;0;Yes;No;0;89;170;31;3
+20;Medical consultation;9;Friday;4;260;50;11;36;241.476;92;No;High School;4;Yes;No;0;65;168;23;4
+3;Medical consultation;10;Tuesday;4;179;51;18;38;253.465;93;No;High School;0;Yes;No;0;89;170;31;3
+34;Medical consultation;10;Tuesday;4;118;10;10;37;253.465;93;No;High School;0;No;No;0;83;172;28;3
+36;NA;10;Wednesday;4;118;13;18;50;253.465;93;Yes;High School;1;Yes;No;0;98;178;31;0
+22;Medical consultation;10;Thursday;4;179;26;9;30;253.465;93;No;Postgraduate;0;No;No;0;56;171;19;1
+3;Medical consultation;10;Friday;4;179;51;18;38;253.465;93;No;High School;0;Yes;No;0;89;170;31;3
+28;Medical consultation;10;Friday;4;225;26;9;28;253.465;93;No;High School;1;No;No;2;69;169;24;3
+34;Medical consultation;10;Tuesday;4;118;10;10;37;253.465;93;No;High School;0;No;No;0;83;172;28;3
+28;Medical consultation;10;Wednesday;4;225;26;9;28;253.465;93;No;High School;1;No;No;2;69;169;24;2
+33;Medical consultation;10;Wednesday;4;248;25;14;47;253.465;93;No;High School;2;No;No;1;86;165;32;2
+15;Medical consultation;10;Thursday;4;291;31;12;40;253.465;93;No;High School;1;Yes;No;1;73;171;25;5
+3;Medical consultation;10;Wednesday;4;179;51;18;38;253.465;93;No;High School;0;Yes;No;0;89;170;31;8
+28;Medical consultation;10;Wednesday;4;225;26;9;28;253.465;93;No;High School;1;No;No;2;69;169;24;3
+20;Injury, poisoning and certain other consequences of external causes;10;Thursday;4;260;50;11;36;253.465;93;No;High School;4;Yes;No;0;65;168;23;16
+15;Diseases of the genitourinary system;10;Tuesday;4;291;31;12;40;253.465;93;No;High School;1;Yes;No;1;73;171;25;8
+28;Dental consultation;10;Tuesday;4;225;26;9;28;253.465;93;No;High School;1;No;No;2;69;169;24;2
+11;Unjustified absence;10;Wednesday;4;289;36;13;33;253.465;93;No;High School;2;Yes;No;1;90;172;30;8
+10;Medical consultation;10;Friday;4;361;52;3;28;253.465;93;No;High School;1;Yes;No;4;80;172;27;1
+20;Dental consultation;10;Friday;4;260;50;11;36;253.465;93;No;High School;4;Yes;No;0;65;168;23;3
+3;Medical consultation;11;Thursday;4;179;51;18;38;306.345;93;No;High School;0;Yes;No;0;89;170;31;1
+28;Medical consultation;11;Wednesday;4;225;26;9;28;306.345;93;No;High School;1;No;No;2;69;169;24;1
+3;Diseases of the musculoskeletal system and connective tissue;11;Thursday;4;179;51;18;38;306.345;93;No;High School;0;Yes;No;0;89;170;31;8
+17;Factors influencing health status and contact with health services;11;Thursday;4;179;22;17;40;306.345;93;No;Graduate;2;No;Yes;0;63;170;22;8
+15;Medical consultation;11;Thursday;4;291;31;12;40;306.345;93;No;High School;1;Yes;No;1;73;171;25;5
+14;Diseases of the respiratory system;11;Monday;4;155;12;14;34;306.345;93;No;High School;2;Yes;No;0;95;196;25;32
+6;Patient follow-up;11;Monday;4;189;29;13;33;306.345;93;No;High School;2;No;No;2;69;167;25;8
+15;Diseases of the genitourinary system;11;Monday;4;291;31;12;40;306.345;93;No;High School;1;Yes;No;1;73;171;25;40
+28;Medical consultation;11;Wednesday;4;225;26;9;28;306.345;93;No;High School;1;No;No;2;69;169;24;1
+14;Diseases of the nervous system;11;Friday;4;155;12;14;34;306.345;93;No;High School;2;Yes;No;0;95;196;25;8
+28;Medical consultation;11;Wednesday;4;225;26;9;28;306.345;93;No;High School;1;No;No;2;69;169;24;3
+17;Factors influencing health status and contact with health services;11;Wednesday;4;179;22;17;40;306.345;93;No;Graduate;2;No;Yes;0;63;170;22;8
+28;Diseases of the musculoskeletal system and connective tissue;11;Friday;4;225;26;9;28;306.345;93;No;High School;1;No;No;2;69;169;24;3
+20;Dental consultation;11;Friday;4;260;50;11;36;306.345;93;No;High School;4;Yes;No;0;65;168;23;4
+33;Dental consultation;11;Monday;4;248;25;14;47;306.345;93;No;High School;2;No;No;1;86;165;32;1
+28;Dental consultation;11;Tuesday;4;225;26;9;28;306.345;93;No;High School;1;No;No;2;69;169;24;3
+11;Diseases of the eye and adnexa;11;Wednesday;4;289;36;13;33;306.345;93;No;High School;2;Yes;No;1;90;172;30;24
+15;Medical consultation;11;Thursday;4;291;31;12;40;306.345;93;No;High School;1;Yes;No;1;73;171;25;3
+33;Medical consultation;12;Tuesday;4;248;25;14;47;261.306;97;No;High School;2;No;No;1;86;165;32;1
+34;Injury, poisoning and certain other consequences of external causes;12;Tuesday;4;118;10;10;37;261.306;97;No;High School;0;No;No;0;83;172;28;64
+36;Medical consultation;12;Wednesday;4;118;13;18;50;261.306;97;No;High School;1;Yes;No;0;98;178;31;2
+1;Unjustified absence;12;Wednesday;4;235;11;14;37;261.306;97;No;Postgraduate;1;No;No;1;88;172;29;8
+28;Medical consultation;12;Thursday;4;225;26;9;28;261.306;97;No;High School;1;No;No;2;69;169;24;2
+20;Unjustified absence;12;Friday;4;260;50;11;36;261.306;97;No;High School;4;Yes;No;0;65;168;23;8
+34;Injury, poisoning and certain other consequences of external causes;12;Tuesday;4;118;10;10;37;261.306;97;No;High School;0;No;No;0;83;172;28;56
+10;Patient follow-up;12;Wednesday;4;361;52;3;28;261.306;97;No;High School;1;Yes;No;4;80;172;27;8
+28;Dental consultation;12;Thursday;4;225;26;9;28;261.306;97;No;High School;1;No;No;2;69;169;24;3
+20;Dental consultation;12;Friday;4;260;50;11;36;261.306;97;No;High School;4;Yes;No;0;65;168;23;3
+28;Medical consultation;12;Tuesday;4;225;26;9;28;261.306;97;No;High School;1;No;No;2;69;169;24;2
+10;Patient follow-up;12;Wednesday;4;361;52;3;28;261.306;97;No;High School;1;Yes;No;4;80;172;27;8
+34;Physiotherapy;12;Friday;4;118;10;10;37;261.306;97;No;High School;0;No;No;0;83;172;28;2
+24;Injury, poisoning and certain other consequences of external causes;12;Friday;2;246;25;16;41;261.306;97;No;High School;0;Yes;No;0;67;170;23;8
+28;Medical consultation;12;Friday;2;225;26;9;28;261.306;97;No;High School;1;No;No;2;69;169;24;2
+28;Medical consultation;1;Wednesday;2;225;26;9;28;308.593;95;No;High School;1;No;No;2;69;169;24;1
+34;Injury, poisoning and certain other consequences of external causes;1;Monday;2;118;10;10;37;308.593;95;No;High School;0;No;No;0;83;172;28;1
+34;Physiotherapy;1;Tuesday;2;118;10;10;37;308.593;95;No;High School;0;No;No;0;83;172;28;1
+14;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;1;Tuesday;2;155;12;14;34;308.593;95;No;High School;2;Yes;No;0;95;196;25;8
+28;Physiotherapy;1;Wednesday;2;225;26;9;28;308.593;95;No;High School;1;No;No;2;69;169;24;2
+27;Medical consultation;1;Thursday;2;184;42;7;27;308.593;95;No;High School;0;No;No;0;58;167;21;2
+28;Dental consultation;1;Thursday;2;225;26;9;28;308.593;95;No;High School;1;No;No;2;69;169;24;2
+28;Physiotherapy;1;Friday;2;225;26;9;28;308.593;95;No;High School;1;No;No;2;69;169;24;1
+34;Physiotherapy;1;Monday;2;118;10;10;37;308.593;95;No;High School;0;No;No;0;83;172;28;2
+28;Physiotherapy;1;Tuesday;2;225;26;9;28;308.593;95;No;High School;1;No;No;2;69;169;24;2
+34;Physiotherapy;1;Tuesday;2;118;10;10;37;308.593;95;No;High School;0;No;No;0;83;172;28;2
+34;Physiotherapy;1;Wednesday;2;118;10;10;37;308.593;95;No;High School;0;No;No;0;83;172;28;2
+34;Physiotherapy;1;Thursday;2;118;10;10;37;308.593;95;No;High School;0;No;No;0;83;172;28;2
+34;Physiotherapy;1;Friday;2;118;10;10;37;308.593;95;No;High School;0;No;No;0;83;172;28;2
+34;Physiotherapy;1;Monday;2;118;10;10;37;308.593;95;No;High School;0;No;No;0;83;172;28;2
+34;Physiotherapy;1;Tuesday;2;118;10;10;37;308.593;95;No;High School;0;No;No;0;83;172;28;2
+22;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;1;Tuesday;2;179;26;9;30;308.593;95;No;Postgraduate;0;No;No;0;56;171;19;8
+11;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;1;Tuesday;2;289;36;13;33;308.593;95;No;High School;2;Yes;No;1;90;172;30;8
+34;Physiotherapy;1;Wednesday;2;118;10;10;37;308.593;95;No;High School;0;No;No;0;83;172;28;2
+27;Medical consultation;1;Thursday;2;184;42;7;27;308.593;95;No;High School;0;No;No;0;58;167;21;2
+34;Physiotherapy;1;Thursday;2;118;10;10;37;308.593;95;No;High School;0;No;No;0;83;172;28;2
+34;Physiotherapy;1;Monday;2;118;10;10;37;308.593;95;No;High School;0;No;No;0;83;172;28;0
+28;Medical consultation;1;Tuesday;2;225;26;9;28;308.593;95;No;High School;1;No;No;2;69;169;24;1
+11;Patient follow-up;1;Thursday;2;289;36;13;33;308.593;95;No;High School;2;Yes;No;1;90;172;30;3
+27;Medical consultation;2;Friday;2;184;42;7;27;302.585;99;No;High School;0;No;No;0;58;167;21;1
+24;Certain infectious and parasitic diseases;2;Wednesday;2;246;25;16;41;302.585;99;No;High School;0;Yes;No;0;67;170;23;8
+3;Diseases of the digestive system;2;Wednesday;2;179;51;18;38;302.585;99;No;High School;0;Yes;No;0;89;170;31;8
+14;Dental consultation;2;Thursday;2;155;12;14;34;302.585;99;No;High School;2;Yes;No;0;95;196;25;2
+6;Medical consultation;2;Thursday;2;189;29;13;33;302.585;99;No;High School;2;No;No;2;69;167;25;8
+20;Dental consultation;2;Friday;2;260;50;11;36;302.585;99;No;High School;4;Yes;No;0;65;168;23;2
+11;Patient follow-up;2;Friday;2;289;36;13;33;302.585;99;No;High School;2;Yes;No;1;90;172;30;8
+31;Diseases of the digestive system;2;Monday;2;388;15;9;50;302.585;99;No;High School;0;No;No;0;76;178;24;8
+31;Certain infectious and parasitic diseases;2;Tuesday;2;388;15;9;50;302.585;99;No;High School;0;No;No;0;76;178;24;8
+28;Dental consultation;2;Monday;2;225;26;9;28;302.585;99;No;High School;1;No;No;2;69;169;24;2
+28;Medical consultation;2;Tuesday;2;225;26;9;28;302.585;99;No;High School;1;No;No;2;69;169;24;2
+22;Medical consultation;2;Tuesday;2;179;26;9;30;302.585;99;No;Postgraduate;0;No;No;0;56;171;19;1
+27;Medical consultation;2;Tuesday;2;184;42;7;27;302.585;99;No;High School;0;No;No;0;58;167;21;8
+28;Laboratory examination;2;Thursday;2;225;26;9;28;302.585;99;No;High School;1;No;No;2;69;169;24;3
+18;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;2;Monday;2;330;16;4;28;302.585;99;No;Graduate;0;No;No;0;84;182;25;8
+18;Medical consultation;2;Tuesday;2;330;16;4;28;302.585;99;No;Graduate;0;No;No;0;84;182;25;1
+28;Medical consultation;2;Wednesday;2;225;26;9;28;302.585;99;No;High School;1;No;No;2;69;169;24;1
+6;Injury, poisoning and certain other consequences of external causes;2;Thursday;2;189;29;13;33;302.585;99;No;High School;2;No;No;2;69;167;25;8
+19;Dental consultation;3;Tuesday;2;291;50;12;32;343.253;95;No;High School;0;Yes;No;0;65;169;23;2
+20;Injury, poisoning and certain other consequences of external causes;3;Tuesday;2;260;50;11;36;343.253;95;No;High School;4;Yes;No;0;65;168;23;8
+30;Injury, poisoning and certain other consequences of external causes;3;Tuesday;2;157;27;6;29;343.253;95;No;High School;0;Yes;Yes;0;75;185;22;3
+17;Congenital malformations, deformations and chromosomal abnormalities;3;Tuesday;2;179;22;17;40;343.253;95;No;Graduate;2;No;Yes;0;63;170;22;8
+15;Patient follow-up;3;Wednesday;2;291;31;12;40;343.253;95;No;High School;1;Yes;No;1;73;171;25;8
+20;Diseases of the musculoskeletal system and connective tissue;3;Wednesday;2;260;50;11;36;343.253;95;No;High School;4;Yes;No;0;65;168;23;8
+22;Diseases of the musculoskeletal system and connective tissue;3;Thursday;2;179;26;9;30;343.253;95;No;Postgraduate;0;No;No;0;56;171;19;8
+33;Diseases of the genitourinary system;3;Friday;2;248;25;14;47;343.253;95;No;High School;2;No;No;1;86;165;32;3
+20;Diseases of the musculoskeletal system and connective tissue;3;Friday;2;260;50;11;36;343.253;95;No;High School;4;Yes;No;0;65;168;23;40
+17;Diseases of the digestive system;3;Monday;2;179;22;17;40;343.253;95;No;Graduate;2;No;Yes;0;63;170;22;40
+14;Certain infectious and parasitic diseases;3;Monday;2;155;12;14;34;343.253;95;No;High School;2;Yes;No;0;95;196;25;16
+20;Unjustified absence;3;Monday;2;260;50;11;36;343.253;95;No;High School;4;Yes;No;0;65;168;23;16
+14;Diseases of the musculoskeletal system and connective tissue;3;Tuesday;2;155;12;14;34;343.253;95;No;High School;2;Yes;No;0;95;196;25;8
+11;Diseases of the nervous system;3;Thursday;2;289;36;13;33;343.253;95;No;High School;2;Yes;No;1;90;172;30;8
+17;Diseases of the ear and mastoid process;3;Thursday;2;179;22;17;40;343.253;95;No;Graduate;2;No;Yes;0;63;170;22;8
+20;Dental consultation;3;Friday;2;260;50;11;36;343.253;95;No;High School;4;Yes;No;0;65;168;23;4
+28;Medical consultation;3;Friday;2;225;26;9;28;343.253;95;No;High School;1;No;No;2;69;169;24;1
+7;Diseases of the genitourinary system;3;Monday;2;279;5;14;39;343.253;95;No;High School;2;Yes;Yes;0;68;168;24;8
+3;Diseases of the musculoskeletal system and connective tissue;3;Tuesday;2;179;51;18;38;343.253;95;No;High School;0;Yes;No;0;89;170;31;24
+28;Medical consultation;3;Wednesday;2;225;26;9;28;343.253;95;No;High School;1;No;No;2;69;169;24;2
+28;Diseases of the digestive system;3;Monday;3;225;26;9;28;343.253;95;No;High School;1;No;No;2;69;169;24;8
+22;Diseases of the musculoskeletal system and connective tissue;3;Monday;3;179;26;9;30;343.253;95;No;Postgraduate;0;No;No;0;56;171;19;1
+28;Diseases of the digestive system;3;Tuesday;3;225;26;9;28;343.253;95;No;High School;1;No;No;2;69;169;24;8
+28;Diseases of the digestive system;3;Wednesday;3;225;26;9;28;343.253;95;No;High School;1;No;No;2;69;169;24;16
+3;Diseases of the musculoskeletal system and connective tissue;3;Wednesday;3;179;51;18;38;343.253;95;No;High School;0;Yes;No;0;89;170;31;3
+7;Diseases of the genitourinary system;3;Thursday;3;279;5;14;39;343.253;95;No;High School;2;Yes;Yes;0;68;168;24;16
+28;Dental consultation;3;Friday;3;225;26;9;28;343.253;95;No;High School;1;No;No;2;69;169;24;2
+33;Diseases of the genitourinary system;3;Friday;3;248;25;14;47;343.253;95;No;High School;2;No;No;1;86;165;32;3
+28;Dental consultation;3;Monday;3;225;26;9;28;343.253;95;No;High School;1;No;No;2;69;169;24;1
+15;Dental consultation;4;Wednesday;3;291;31;12;40;326.452;96;No;High School;1;Yes;No;1;73;171;25;1
+28;Medical consultation;4;Wednesday;3;225;26;9;28;326.452;96;No;High School;1;No;No;2;69;169;24;1
+14;Dental consultation;4;Tuesday;3;155;12;14;34;326.452;96;No;High School;2;Yes;No;0;95;196;25;1
+24;Diseases of the musculoskeletal system and connective tissue;4;Wednesday;3;246;25;16;41;326.452;96;No;High School;0;Yes;No;0;67;170;23;24
+14;Medical consultation;4;Thursday;3;155;12;14;34;326.452;96;No;High School;2;Yes;No;0;95;196;25;1
+28;Dental consultation;4;Friday;3;225;26;9;28;326.452;96;No;High School;1;No;No;2;69;169;24;2
+20;Dental consultation;4;Friday;3;260;50;11;36;326.452;96;No;High School;4;Yes;No;0;65;168;23;4
+3;Diseases of the musculoskeletal system and connective tissue;4;Wednesday;3;179;51;18;38;326.452;96;No;High School;0;Yes;No;0;89;170;31;24
+36;Medical consultation;4;Thursday;3;118;13;18;50;326.452;96;No;High School;1;Yes;No;0;98;178;31;1
+15;Medical consultation;4;Friday;3;291;31;12;40;326.452;96;No;High School;1;Yes;No;1;73;171;25;3
+24;Diseases of the genitourinary system;4;Friday;3;246;25;16;41;326.452;96;No;High School;0;Yes;No;0;67;170;23;8
+15;Dental consultation;4;Friday;3;291;31;12;40;326.452;96;No;High School;1;Yes;No;1;73;171;25;1
+33;Dental consultation;4;Friday;3;248;25;14;47;326.452;96;No;High School;2;No;No;1;86;165;32;8
+20;Injury, poisoning and certain other consequences of external causes;4;Friday;3;260;50;11;36;326.452;96;No;High School;4;Yes;No;0;65;168;23;56
+11;Injury, poisoning and certain other consequences of external causes;4;Tuesday;3;289;36;13;33;326.452;96;No;High School;2;Yes;No;1;90;172;30;8
+14;Diseases of the skin and subcutaneous tissue;4;Wednesday;3;155;12;14;34;326.452;96;No;High School;2;Yes;No;0;95;196;25;24
+23;Injury, poisoning and certain other consequences of external causes;4;Wednesday;3;378;49;11;36;326.452;96;No;High School;2;No;Yes;4;65;174;21;8
+11;Diseases of the musculoskeletal system and connective tissue;4;Thursday;3;289;36;13;33;326.452;96;No;High School;2;Yes;No;1;90;172;30;16
+1;Diseases of the eye and adnexa;4;Friday;3;235;11;14;37;326.452;96;No;Postgraduate;1;No;No;1;88;172;29;3
+2;NA;4;Monday;3;235;29;12;48;326.452;96;Yes;High School;1;No;Yes;5;88;163;33;0
+11;Diseases of the musculoskeletal system and connective tissue;5;Wednesday;3;289;36;13;33;378.884;92;No;High School;2;Yes;No;1;90;172;30;8
+14;Dental consultation;5;Thursday;3;155;12;14;34;378.884;92;No;High School;2;Yes;No;0;95;196;25;2
+14;Dental consultation;5;Monday;3;155;12;14;34;378.884;92;No;High School;2;Yes;No;0;95;196;25;1
+3;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;5;Tuesday;3;179;51;18;38;378.884;92;No;High School;0;Yes;No;0;89;170;31;8
+28;Injury, poisoning and certain other consequences of external causes;5;Tuesday;3;225;26;9;28;378.884;92;No;High School;1;No;No;2;69;169;24;8
+27;Diseases of the eye and adnexa;5;Wednesday;3;184;42;7;27;378.884;92;No;High School;0;No;No;0;58;167;21;4
+14;Dental consultation;5;Monday;3;155;12;14;34;378.884;92;No;High School;2;Yes;No;0;95;196;25;2
+3;Diseases of the skin and subcutaneous tissue;5;Tuesday;3;179;51;18;38;378.884;92;No;High School;0;Yes;No;0;89;170;31;1
+11;Diseases of the musculoskeletal system and connective tissue;5;Wednesday;3;289;36;13;33;378.884;92;No;High School;2;Yes;No;1;90;172;30;24
+7;NA;5;Wednesday;3;279;5;14;39;378.884;92;Yes;High School;2;Yes;Yes;0;68;168;24;0
+18;NA;5;Wednesday;3;330;16;4;28;378.884;92;Yes;Graduate;0;No;No;0;84;182;25;0
+23;NA;5;Wednesday;3;378;49;11;36;378.884;92;Yes;High School;2;No;Yes;4;65;174;21;0
+31;NA;5;Wednesday;3;388;15;9;50;378.884;92;Yes;High School;0;No;No;0;76;178;24;0
+3;Diseases of the digestive system;5;Tuesday;3;179;51;18;38;378.884;92;No;High School;0;Yes;No;0;89;170;31;1
+36;Diseases of the musculoskeletal system and connective tissue;5;Wednesday;3;118;13;18;50;378.884;92;No;High School;1;Yes;No;0;98;178;31;24
+10;Patient follow-up;5;Friday;3;361;52;3;28;378.884;92;No;High School;1;Yes;No;4;80;172;27;8
+24;Injury, poisoning and certain other consequences of external causes;6;Monday;3;246;25;16;41;377.55;94;No;High School;0;Yes;No;0;67;170;23;8
+10;Patient follow-up;6;Monday;3;361;52;3;28;377.55;94;No;High School;1;Yes;No;4;80;172;27;8
+24;Diseases of the respiratory system;6;Tuesday;3;246;25;16;41;377.55;94;No;High School;0;Yes;No;0;67;170;23;24
+15;Medical consultation;6;Thursday;3;291;31;12;40;377.55;94;No;High School;1;Yes;No;1;73;171;25;4
+24;Diseases of the respiratory system;6;Friday;3;246;25;16;41;377.55;94;No;High School;0;Yes;No;0;67;170;23;8
+3;Diseases of the digestive system;6;Monday;3;179;51;18;38;377.55;94;No;High School;0;Yes;No;0;89;170;31;8
+14;Medical consultation;6;Monday;3;155;12;14;34;377.55;94;No;High School;2;Yes;No;0;95;196;25;4
+24;Diseases of the respiratory system;6;Monday;3;246;25;16;41;377.55;94;No;High School;0;Yes;No;0;67;170;23;8
+36;Diseases of the musculoskeletal system and connective tissue;6;Wednesday;3;118;13;18;50;377.55;94;No;High School;1;Yes;No;0;98;178;31;8
+1;Diseases of the musculoskeletal system and connective tissue;6;Friday;3;235;11;14;37;377.55;94;No;Postgraduate;1;No;No;1;88;172;29;16
+36;Medical consultation;6;Tuesday;3;118;13;18;50;377.55;94;No;High School;1;Yes;No;0;98;178;31;1
+36;Diseases of the musculoskeletal system and connective tissue;6;Wednesday;3;118;13;18;50;377.55;94;No;High School;1;Yes;No;0;98;178;31;80
+23;Patient follow-up;6;Thursday;3;378;49;11;36;377.55;94;No;High School;2;No;Yes;4;65;174;21;8
+3;Diseases of the digestive system;6;Friday;3;179;51;18;38;377.55;94;No;High School;0;Yes;No;0;89;170;31;2
+32;Dental consultation;6;Monday;1;289;48;29;49;377.55;94;No;High School;0;No;No;2;108;172;36;2
+28;Dental consultation;6;Thursday;1;225;26;9;28;377.55;94;No;High School;1;No;No;2;69;169;24;2
+14;Injury, poisoning and certain other consequences of external causes;7;Tuesday;1;155;12;14;34;275.312;98;No;High School;2;Yes;No;0;95;196;25;16
+36;Certain infectious and parasitic diseases;7;Wednesday;1;118;13;18;50;275.312;98;No;High School;1;Yes;No;0;98;178;31;8
+34;Mental and behavioural disorders;7;Friday;1;118;10;10;37;275.312;98;No;High School;0;No;No;0;83;172;28;8
+34;Unjustified absence;7;Friday;1;118;10;10;37;275.312;98;No;High School;0;No;No;0;83;172;28;4
+18;Unjustified absence;7;Tuesday;1;330;16;4;28;275.312;98;No;Graduate;0;No;No;0;84;182;25;8
+22;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;7;Thursday;1;179;26;9;30;275.312;98;No;Postgraduate;0;No;No;0;56;171;19;8
+14;Laboratory examination;7;Friday;1;155;12;14;34;275.312;98;No;High School;2;Yes;No;0;95;196;25;2
+18;Certain infectious and parasitic diseases;7;Monday;1;330;16;4;28;275.312;98;No;Graduate;0;No;No;0;84;182;25;8
+18;Certain infectious and parasitic diseases;7;Tuesday;1;330;16;4;28;275.312;98;No;Graduate;0;No;No;0;84;182;25;8
+30;Laboratory examination;7;Monday;1;157;27;6;29;275.312;98;No;High School;0;Yes;Yes;0;75;185;22;3
+10;Patient follow-up;7;Tuesday;1;361;52;3;28;275.312;98;No;High School;1;Yes;No;4;80;172;27;8
+11;Unjustified absence;7;Wednesday;1;289;36;13;33;275.312;98;No;High School;2;Yes;No;1;90;172;30;8
+3;Unjustified absence;7;Thursday;1;179;51;18;38;275.312;98;No;High School;0;Yes;No;0;89;170;31;8
+11;Injury, poisoning and certain other consequences of external causes;7;Monday;1;289;36;13;33;275.312;98;No;High School;2;Yes;No;1;90;172;30;32
+11;Injury, poisoning and certain other consequences of external causes;7;Thursday;1;289;36;13;33;275.312;98;No;High School;2;Yes;No;1;90;172;30;8
+20;NA;7;Thursday;1;260;50;11;36;275.312;98;Yes;High School;4;Yes;No;0;65;168;23;0
+11;Injury, poisoning and certain other consequences of external causes;8;Friday;1;289;36;13;33;265.615;94;No;High School;2;Yes;No;1;90;172;30;8
+30;Injury, poisoning and certain other consequences of external causes;8;Friday;1;157;27;6;29;265.615;94;No;High School;0;Yes;Yes;0;75;185;22;3
+11;Medical consultation;8;Monday;1;289;36;13;33;265.615;94;No;High School;2;Yes;No;1;90;172;30;1
+9;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;8;Tuesday;1;228;14;16;58;265.615;94;No;High School;2;No;No;1;65;172;22;8
+26;Diseases of the musculoskeletal system and connective tissue;8;Thursday;1;300;26;13;43;265.615;94;No;High School;2;Yes;Yes;1;77;175;25;1
+26;Diseases of the genitourinary system;8;Thursday;1;300;26;13;43;265.615;94;No;High School;2;Yes;Yes;1;77;175;25;2
+20;Dental consultation;8;Friday;1;260;50;11;36;265.615;94;No;High School;4;Yes;No;0;65;168;23;4
+11;Medical consultation;8;Tuesday;1;289;36;13;33;265.615;94;No;High School;2;Yes;No;1;90;172;30;4
+33;Medical consultation;8;Wednesday;1;248;25;14;47;265.615;94;No;High School;2;No;No;1;86;165;32;1
+21;Diseases of the digestive system;8;Thursday;1;268;11;8;33;265.615;94;No;Graduate;0;No;No;0;79;178;25;8
+22;Medical consultation;8;Thursday;1;179;26;9;30;265.615;94;No;Postgraduate;0;No;No;0;56;171;19;1
+36;Diseases of the musculoskeletal system and connective tissue;8;Thursday;1;118;13;18;50;265.615;94;No;High School;1;Yes;No;0;98;178;31;3
+33;Laboratory examination;8;Monday;1;248;25;14;47;265.615;94;No;High School;2;No;No;1;86;165;32;2
+1;Medical consultation;8;Tuesday;1;235;11;14;37;265.615;94;No;Postgraduate;1;No;No;1;88;172;29;1
+36;Medical consultation;8;Thursday;1;118;13;18;50;265.615;94;No;High School;1;Yes;No;0;98;178;31;1
+1;Injury, poisoning and certain other consequences of external causes;8;Thursday;1;235;11;14;37;265.615;94;No;Postgraduate;1;No;No;1;88;172;29;8
+10;Diseases of the ear and mastoid process;8;Tuesday;1;361;52;3;28;265.615;94;No;High School;1;Yes;No;4;80;172;27;8
+27;Diseases of the nervous system;8;Wednesday;1;184;42;7;27;265.615;94;No;High School;0;No;No;0;58;167;21;8
+3;Diseases of the digestive system;9;Monday;1;179;51;18;38;294.217;81;No;High School;0;Yes;No;0;89;170;31;8
+3;Medical consultation;9;Friday;1;179;51;18;38;294.217;81;No;High School;0;Yes;No;0;89;170;31;3
+11;Injury, poisoning and certain other consequences of external causes;9;Wednesday;1;289;36;13;33;294.217;81;No;High School;2;Yes;No;1;90;172;30;24
+5;NA;9;Thursday;1;235;20;13;43;294.217;81;Yes;High School;1;Yes;No;0;106;167;38;0
+24;Diseases of the circulatory system;9;Monday;1;246;25;16;41;294.217;81;No;High School;0;Yes;No;0;67;170;23;16
+15;Dental consultation;9;Tuesday;1;291;31;12;40;294.217;81;No;High School;1;Yes;No;1;73;171;25;3
+8;NA;9;Tuesday;1;231;35;14;39;294.217;81;Yes;High School;2;Yes;No;2;100;170;35;0
+19;NA;9;Tuesday;1;291;50;12;32;294.217;81;Yes;High School;0;Yes;No;0;65;169;23;0
+3;Diseases of the musculoskeletal system and connective tissue;9;Wednesday;1;179;51;18;38;294.217;81;No;High School;0;Yes;No;0;89;170;31;8
+24;Diseases of the circulatory system;9;Wednesday;1;246;25;16;41;294.217;81;No;High School;0;Yes;No;0;67;170;23;32
+3;Medical consultation;9;Thursday;1;179;51;18;38;294.217;81;No;High School;0;Yes;No;0;89;170;31;1
+15;Dental consultation;9;Friday;1;291;31;12;40;294.217;81;No;High School;1;Yes;No;1;73;171;25;4
+20;Dental consultation;9;Friday;1;260;50;11;36;294.217;81;No;High School;4;Yes;No;0;65;168;23;4
+5;Unjustified absence;9;Wednesday;4;235;20;13;43;294.217;81;No;High School;1;Yes;No;0;106;167;38;8
+36;Dental consultation;9;Thursday;4;118;13;18;50;294.217;81;No;High School;1;Yes;No;0;98;178;31;1
+5;NA;9;Thursday;4;235;20;13;43;294.217;81;Yes;High School;1;Yes;No;0;106;167;38;0
+15;Dental consultation;9;Friday;4;291;31;12;40;294.217;81;No;High School;1;Yes;No;1;73;171;25;3
+15;Diseases of the eye and adnexa;9;Monday;4;291;31;12;40;294.217;81;No;High School;1;Yes;No;1;73;171;25;40
+3;Diseases of the musculoskeletal system and connective tissue;9;Monday;4;179;51;18;38;294.217;81;No;High School;0;Yes;No;0;89;170;31;8
+11;Blood donation;10;Monday;4;289;36;13;33;265.017;88;No;High School;2;Yes;No;1;90;172;30;8
+1;Unjustified absence;10;Monday;4;235;11;14;37;265.017;88;No;Postgraduate;1;No;No;1;88;172;29;4
+11;Unjustified absence;10;Monday;4;289;36;13;33;265.017;88;No;High School;2;Yes;No;1;90;172;30;8
+11;Patient follow-up;10;Friday;4;289;36;13;33;265.017;88;No;High School;2;Yes;No;1;90;172;30;8
+36;NA;10;Friday;4;118;13;18;50;265.017;88;Yes;High School;1;Yes;No;0;98;178;31;0
+33;NA;10;Friday;4;248;25;14;47;265.017;88;Yes;High School;2;No;No;1;86;165;32;0
+22;Certain infectious and parasitic diseases;10;Monday;4;179;26;9;30;265.017;88;No;Postgraduate;0;No;No;0;56;171;19;8
+34;Diseases of the eye and adnexa;10;Monday;4;118;10;10;37;265.017;88;No;High School;0;No;No;0;83;172;28;3
+13;Patient follow-up;10;Monday;4;369;17;12;31;265.017;88;No;High School;3;Yes;No;0;70;169;25;8
+3;Dental consultation;10;Wednesday;4;179;51;18;38;265.017;88;No;High School;0;Yes;No;0;89;170;31;1
+22;Certain infectious and parasitic diseases;10;Wednesday;4;179;26;9;30;265.017;88;No;Postgraduate;0;No;No;0;56;171;19;64
+5;NA;10;Wednesday;4;235;20;13;43;265.017;88;Yes;High School;1;Yes;No;0;106;167;38;0
+11;Injury, poisoning and certain other consequences of external causes;10;Thursday;4;289;36;13;33;265.017;88;No;High School;2;Yes;No;1;90;172;30;16
+20;Dental consultation;10;Friday;4;260;50;11;36;265.017;88;No;High School;4;Yes;No;0;65;168;23;3
+5;NA;10;Friday;4;235;20;13;43;265.017;88;Yes;High School;1;Yes;No;0;106;167;38;0
+5;Medical consultation;10;Monday;4;235;20;13;43;265.017;88;No;High School;1;Yes;No;0;106;167;38;2
+5;Medical consultation;10;Monday;4;235;20;13;43;265.017;88;No;High School;1;Yes;No;0;106;167;38;2
+36;Dental consultation;10;Tuesday;4;118;13;18;50;265.017;88;No;High School;1;Yes;No;0;98;178;31;1
+15;Dental consultation;10;Tuesday;4;291;31;12;40;265.017;88;No;High School;1;Yes;No;1;73;171;25;4
+22;Medical consultation;10;Thursday;4;179;26;9;30;265.017;88;No;Postgraduate;0;No;No;0;56;171;19;16
+36;Dental consultation;10;Thursday;4;118;13;18;50;265.017;88;No;High School;1;Yes;No;0;98;178;31;1
+10;Diseases of the respiratory system;10;Monday;4;361;52;3;28;265.017;88;No;High School;1;Yes;No;4;80;172;27;8
+20;NA;10;Tuesday;4;260;50;11;36;265.017;88;Yes;High School;4;Yes;No;0;65;168;23;0
+15;NA;10;Tuesday;4;291;31;12;40;265.017;88;Yes;High School;1;Yes;No;1;73;171;25;0
+30;NA;10;Tuesday;4;157;27;6;29;265.017;88;Yes;High School;0;Yes;Yes;0;75;185;22;0
+22;Certain infectious and parasitic diseases;10;Wednesday;4;179;26;9;30;265.017;88;No;Postgraduate;0;No;No;0;56;171;19;5
+22;Diseases of the eye and adnexa;10;Wednesday;4;179;26;9;30;265.017;88;No;Postgraduate;0;No;No;0;56;171;19;5
+36;Medical consultation;10;Thursday;4;118;13;18;50;265.017;88;No;High School;1;Yes;No;0;98;178;31;1
+34;Diseases of the digestive system;11;Monday;4;118;10;10;37;284.031;97;No;High School;0;No;No;0;83;172;28;8
+33;Medical consultation;11;Monday;4;248;25;14;47;284.031;97;No;High School;2;No;No;1;86;165;32;2
+3;Diseases of the nervous system;11;Tuesday;4;179;51;18;38;284.031;97;No;High School;0;Yes;No;0;89;170;31;8
+20;Dental consultation;11;Friday;4;260;50;11;36;284.031;97;No;High School;4;Yes;No;0;65;168;23;3
+15;Medical consultation;11;Monday;4;291;31;12;40;284.031;97;No;High School;1;Yes;No;1;73;171;25;1
+23;Certain infectious and parasitic diseases;11;Monday;4;378;49;11;36;284.031;97;No;High School;2;No;Yes;4;65;174;21;8
+14;Diseases of the digestive system;11;Monday;4;155;12;14;34;284.031;97;No;High School;2;Yes;No;0;95;196;25;120
+5;Unjustified absence;11;Monday;4;235;20;13;43;284.031;97;No;High School;1;Yes;No;0;106;167;38;8
+18;NA;11;Tuesday;4;330;16;4;28;284.031;97;Yes;Graduate;0;No;No;0;84;182;25;0
+1;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;11;Wednesday;4;235;11;14;37;284.031;97;No;Postgraduate;1;No;No;1;88;172;29;1
+34;Diseases of the digestive system;11;Wednesday;4;118;10;10;37;284.031;97;No;High School;0;No;No;0;83;172;28;3
+1;Laboratory examination;11;Thursday;4;235;11;14;37;284.031;97;No;Postgraduate;1;No;No;1;88;172;29;2
+3;Dental consultation;11;Thursday;4;179;51;18;38;284.031;97;No;High School;0;Yes;No;0;89;170;31;3
+24;Diseases of the musculoskeletal system and connective tissue;11;Friday;4;246;25;16;41;284.031;97;No;High School;0;Yes;No;0;67;170;23;8
+15;Diseases of the skin and subcutaneous tissue;11;Friday;4;291;31;12;40;284.031;97;No;High School;1;Yes;No;1;73;171;25;4
+24;Diseases of the musculoskeletal system and connective tissue;11;Monday;4;246;25;16;41;284.031;97;No;High School;0;Yes;No;0;67;170;23;8
+3;Dental consultation;11;Tuesday;4;179;51;18;38;284.031;97;No;High School;0;Yes;No;0;89;170;31;1
+20;Diseases of the respiratory system;11;Wednesday;4;260;50;11;36;284.031;97;No;High School;4;Yes;No;0;65;168;23;8
+20;Pregnancy, childbirth and the puerperium;11;Friday;4;260;50;11;36;284.031;97;No;High School;4;Yes;No;0;65;168;23;8
+23;NA;11;Friday;4;378;49;11;36;284.031;97;Yes;High School;2;No;Yes;4;65;174;21;0
+7;NA;11;Tuesday;4;279;5;14;39;284.031;97;Yes;High School;2;Yes;Yes;0;68;168;24;0
+3;Medical consultation;11;Thursday;4;179;51;18;38;284.031;97;No;High School;0;Yes;No;0;89;170;31;1
+28;Diseases of the skin and subcutaneous tissue;12;Monday;4;225;26;9;28;236.629;93;No;High School;1;No;No;2;69;169;24;3
+3;Dental consultation;12;Monday;4;179;51;18;38;236.629;93;No;High School;0;Yes;No;0;89;170;31;2
+3;Dental consultation;12;Monday;4;179;51;18;38;236.629;93;No;High School;0;Yes;No;0;89;170;31;1
+1;Medical consultation;12;Monday;4;235;11;14;37;236.629;93;No;Postgraduate;1;No;No;1;88;172;29;3
+36;Dental consultation;12;Tuesday;4;118;13;18;50;236.629;93;No;High School;1;Yes;No;0;98;178;31;1
+20;Dental consultation;12;Friday;4;260;50;11;36;236.629;93;No;High School;4;Yes;No;0;65;168;23;4
+24;Endocrine, nutritional and metabolic diseases;12;Thursday;4;246;25;16;41;236.629;93;No;High School;0;Yes;No;0;67;170;23;8
+3;Dental consultation;12;Thursday;4;179;51;18;38;236.629;93;No;High School;0;Yes;No;0;89;170;31;1
+3;Dental consultation;12;Friday;4;179;51;18;38;236.629;93;No;High School;0;Yes;No;0;89;170;31;1
+22;Medical consultation;12;Tuesday;4;179;26;9;30;236.629;93;No;Postgraduate;0;No;No;0;56;171;19;1
+34;Laboratory examination;12;Tuesday;4;118;10;10;37;236.629;93;No;High School;0;No;No;0;83;172;28;8
+1;Laboratory examination;12;Thursday;4;235;11;14;37;236.629;93;No;Postgraduate;1;No;No;1;88;172;29;2
+3;Dental consultation;12;Friday;4;179;51;18;38;236.629;93;No;High School;0;Yes;No;0;89;170;31;1
+5;Diseases of the musculoskeletal system and connective tissue;12;Tuesday;2;235;20;13;43;236.629;93;No;High School;1;Yes;No;0;106;167;38;8
+1;Diseases of the genitourinary system;12;Tuesday;2;235;11;14;37;236.629;93;No;Postgraduate;1;No;No;1;88;172;29;4
+20;Unjustified absence;12;Wednesday;2;260;50;11;36;236.629;93;No;High School;4;Yes;No;0;65;168;23;8
+30;Dental consultation;12;Monday;2;157;27;6;29;236.629;93;No;High School;0;Yes;Yes;0;75;185;22;2
+3;Dental consultation;12;Monday;2;179;51;18;38;236.629;93;No;High School;0;Yes;No;0;89;170;31;3
+11;Injury, poisoning and certain other consequences of external causes;12;Monday;2;289;36;13;33;236.629;93;No;High School;2;Yes;No;1;90;172;30;8
+28;Medical consultation;1;Wednesday;2;225;26;9;28;330.061;100;No;High School;1;No;No;2;69;169;24;5
+34;Injury, poisoning and certain other consequences of external causes;1;Monday;2;118;10;10;37;330.061;100;No;High School;0;No;No;0;83;172;28;32
+14;Medical consultation;1;Monday;2;155;12;14;34;330.061;100;No;High School;2;Yes;No;0;95;196;25;2
+1;Diseases of the musculoskeletal system and connective tissue;1;Tuesday;2;235;11;14;37;330.061;100;No;Postgraduate;1;No;No;1;88;172;29;1
+14;Medical consultation;1;Tuesday;2;155;12;14;34;330.061;100;No;High School;2;Yes;No;0;95;196;25;4
+11;Unjustified absence;1;Monday;2;289;36;13;33;330.061;100;No;High School;2;Yes;No;1;90;172;30;8
+15;Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism;1;Wednesday;2;291;31;12;40;330.061;100;No;High School;1;Yes;No;1;73;171;25;8
+5;Unjustified absence;1;Monday;2;235;20;13;43;330.061;100;No;High School;1;Yes;No;0;106;167;38;8
+36;Unjustified absence;1;Monday;2;118;13;18;50;330.061;100;No;High School;1;Yes;No;0;98;178;31;4
+3;Dental consultation;1;Wednesday;2;179;51;18;38;330.061;100;No;High School;0;Yes;No;0;89;170;31;1
+3;Dental consultation;1;Friday;2;179;51;18;38;330.061;100;No;High School;0;Yes;No;0;89;170;31;1
+34;Dental consultation;2;Tuesday;2;118;10;10;37;251.818;96;No;High School;0;No;No;0;83;172;28;2
+3;Physiotherapy;2;Wednesday;2;179;51;18;38;251.818;96;No;High School;0;Yes;No;0;89;170;31;3
+28;Diseases of the eye and adnexa;2;Wednesday;2;225;26;9;28;251.818;96;No;High School;1;No;No;2;69;169;24;1
+11;Patient follow-up;2;Friday;2;289;36;13;33;251.818;96;No;High School;2;Yes;No;1;90;172;30;3
+20;Dental consultation;2;Friday;2;260;50;11;36;251.818;96;No;High School;4;Yes;No;0;65;168;23;3
+3;Medical consultation;2;Friday;2;179;51;18;38;251.818;96;No;High School;0;Yes;No;0;89;170;31;3
+3;Physiotherapy;2;Monday;2;179;51;18;38;251.818;96;No;High School;0;Yes;No;0;89;170;31;2
+3;Physiotherapy;2;Wednesday;2;179;51;18;38;251.818;96;No;High School;0;Yes;No;0;89;170;31;3
+3;Diseases of the respiratory system;2;Thursday;2;179;51;18;38;251.818;96;No;High School;0;Yes;No;0;89;170;31;8
+24;Unjustified absence;2;Thursday;2;246;25;16;41;251.818;96;No;High School;0;Yes;No;0;67;170;23;8
+3;Physiotherapy;2;Friday;2;179;51;18;38;251.818;96;No;High School;0;Yes;No;0;89;170;31;3
+6;Patient follow-up;2;Monday;2;189;29;13;33;251.818;96;No;High School;2;No;No;2;69;167;25;8
+3;Physiotherapy;2;Monday;2;179;51;18;38;251.818;96;No;High School;0;Yes;No;0;89;170;31;3
+24;Medical consultation;2;Tuesday;2;246;25;16;41;251.818;96;No;High School;0;Yes;No;0;67;170;23;2
+15;Medical consultation;2;Tuesday;2;291;31;12;40;251.818;96;No;High School;1;Yes;No;1;73;171;25;2
+30;Diseases of the digestive system;2;Wednesday;2;157;27;6;29;251.818;96;No;High School;0;Yes;Yes;0;75;185;22;16
+3;Physiotherapy;2;Wednesday;2;179;51;18;38;251.818;96;No;High School;0;Yes;No;0;89;170;31;3
+3;Physiotherapy;2;Friday;2;179;51;18;38;251.818;96;No;High School;0;Yes;No;0;89;170;31;3
+24;Diseases of the respiratory system;2;Friday;2;246;25;16;41;251.818;96;No;High School;0;Yes;No;0;67;170;23;24
+3;Physiotherapy;2;Wednesday;2;179;51;18;38;251.818;96;No;High School;0;Yes;No;0;89;170;31;3
+3;Physiotherapy;2;Friday;2;179;51;18;38;251.818;96;No;High School;0;Yes;No;0;89;170;31;3
+34;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;3;Tuesday;2;118;10;10;37;244.387;98;No;High School;0;No;No;0;83;172;28;8
+24;Injury, poisoning and certain other consequences of external causes;3;Wednesday;2;246;25;16;41;244.387;98;No;High School;0;Yes;No;0;67;170;23;16
+24;Dental consultation;3;Friday;2;246;25;16;41;244.387;98;No;High School;0;Yes;No;0;67;170;23;2
+20;Dental consultation;3;Friday;2;260;50;11;36;244.387;98;No;High School;4;Yes;No;0;65;168;23;4
+3;Dental consultation;3;Monday;2;179;51;18;38;244.387;98;No;High School;0;Yes;No;0;89;170;31;2
+1;Patient follow-up;3;Monday;2;235;11;14;37;244.387;98;No;Postgraduate;1;No;No;1;88;172;29;8
+17;Patient follow-up;3;Tuesday;2;179;22;17;40;244.387;98;No;Graduate;2;No;Yes;0;63;170;22;8
+23;Patient follow-up;3;Tuesday;2;378;49;11;36;244.387;98;No;High School;2;No;Yes;4;65;174;21;8
+3;Dental consultation;3;Monday;2;179;51;18;38;244.387;98;No;High School;0;Yes;No;0;89;170;31;16
+10;Patient follow-up;3;Wednesday;2;361;52;3;28;244.387;98;No;High School;1;Yes;No;4;80;172;27;8
+13;NA;3;Wednesday;2;369;17;12;31;244.387;98;Yes;High School;3;Yes;No;0;70;169;25;0
+1;Factors influencing health status and contact with health services;3;Thursday;2;235;11;14;37;244.387;98;No;Postgraduate;1;No;No;1;88;172;29;8
+36;Medical consultation;3;Friday;3;118;13;18;50;244.387;98;No;High School;1;Yes;No;0;98;178;31;2
+36;Diseases of the genitourinary system;3;Tuesday;3;118;13;18;50;244.387;98;No;High School;1;Yes;No;0;98;178;31;3
+36;Diseases of the musculoskeletal system and connective tissue;3;Wednesday;3;118;13;18;50;244.387;98;No;High School;1;Yes;No;0;98;178;31;8
+1;NA;3;Thursday;3;235;11;14;37;244.387;98;Yes;Postgraduate;1;No;No;1;88;172;29;0
+24;NA;3;Thursday;3;246;25;16;41;244.387;98;Yes;High School;0;Yes;No;0;67;170;23;0
+36;NA;3;Thursday;3;118;13;18;50;244.387;98;Yes;High School;1;Yes;No;0;98;178;31;0
+3;Dental consultation;3;Friday;3;179;51;18;38;244.387;98;No;High School;0;Yes;No;0;89;170;31;8
+11;Patient follow-up;3;Friday;3;289;36;13;33;244.387;98;No;High School;2;Yes;No;1;90;172;30;8
+20;Injury, poisoning and certain other consequences of external causes;3;Monday;3;260;50;11;36;244.387;98;No;High School;4;Yes;No;0;65;168;23;8
+24;Dental consultation;3;Tuesday;3;246;25;16;41;244.387;98;No;High School;0;Yes;No;0;67;170;23;2
+3;Dental consultation;4;Wednesday;3;179;51;18;38;239.409;98;No;High School;0;Yes;No;0;89;170;31;4
+20;Dental consultation;4;Friday;3;260;50;11;36;239.409;98;No;High School;4;Yes;No;0;65;168;23;3
+18;Unjustified absence;4;Friday;3;330;16;4;28;239.409;98;No;Graduate;0;No;No;0;84;182;25;4
+13;Patient follow-up;4;Monday;3;369;17;12;31;239.409;98;No;High School;3;Yes;No;0;70;169;25;4
+33;Unjustified absence;4;Monday;3;248;25;14;47;239.409;98;No;High School;2;No;No;1;86;165;32;4
+18;Medical consultation;4;Wednesday;3;330;16;4;28;239.409;98;No;Graduate;0;No;No;0;84;182;25;8
+3;Dental consultation;4;Wednesday;3;179;51;18;38;239.409;98;No;High School;0;Yes;No;0;89;170;31;8
+36;Medical consultation;4;Monday;3;118;13;18;50;239.409;98;No;High School;1;Yes;No;0;98;178;31;1
+36;Diseases of the musculoskeletal system and connective tissue;4;Wednesday;3;118;13;18;50;239.409;98;No;High School;1;Yes;No;0;98;178;31;120
+26;Dental consultation;4;Friday;3;300;26;13;43;239.409;98;No;High School;2;Yes;Yes;1;77;175;25;8
+20;Dental consultation;4;Friday;3;260;50;11;36;239.409;98;No;High School;4;Yes;No;0;65;168;23;4
+3;Dental consultation;4;Monday;3;179;51;18;38;239.409;98;No;High School;0;Yes;No;0;89;170;31;4
+34;Diseases of the digestive system;4;Wednesday;3;118;10;10;37;239.409;98;No;High School;0;No;No;0;83;172;28;2
+5;Diseases of the musculoskeletal system and connective tissue;5;Monday;3;235;20;13;43;246.074;99;No;High School;1;Yes;No;0;106;167;38;16
+33;Medical consultation;5;Wednesday;3;248;25;14;47;246.074;99;No;High School;2;No;No;1;86;165;32;2
+13;Diseases of the respiratory system;5;Monday;3;369;17;12;31;246.074;99;No;High School;3;Yes;No;0;70;169;25;8
+22;Medical consultation;5;Wednesday;3;179;26;9;30;246.074;99;No;Postgraduate;0;No;No;0;56;171;19;3
+3;Dental consultation;5;Wednesday;3;179;51;18;38;246.074;99;No;High School;0;Yes;No;0;89;170;31;4
+10;Medical consultation;5;Thursday;3;361;52;3;28;246.074;99;No;High School;1;Yes;No;4;80;172;27;1
+20;Dental consultation;5;Friday;3;260;50;11;36;246.074;99;No;High School;4;Yes;No;0;65;168;23;3
+17;Diseases of the digestive system;5;Monday;3;179;22;17;40;246.074;99;No;Graduate;2;No;Yes;0;63;170;22;2
+17;Diseases of the ear and mastoid process;5;Monday;3;179;22;17;40;246.074;99;No;Graduate;2;No;Yes;0;63;170;22;3
+9;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;5;Wednesday;3;228;14;16;58;246.074;99;No;High School;2;No;No;1;65;172;22;8
+28;Laboratory examination;5;Wednesday;3;225;26;9;28;246.074;99;No;High School;1;No;No;2;69;169;24;3
+18;Diseases of the musculoskeletal system and connective tissue;5;Friday;3;330;16;4;28;246.074;99;No;Graduate;0;No;No;0;84;182;25;8
+22;Laboratory examination;5;Monday;3;179;26;9;30;246.074;99;No;Postgraduate;0;No;No;0;56;171;19;2
+34;Dental consultation;5;Monday;3;118;10;10;37;246.074;99;No;High School;0;No;No;0;83;172;28;1
+1;Certain infectious and parasitic diseases;5;Monday;3;235;11;14;37;246.074;99;No;Postgraduate;1;No;No;1;88;172;29;8
+22;Medical consultation;5;Wednesday;3;179;26;9;30;246.074;99;No;Postgraduate;0;No;No;0;56;171;19;3
+34;Medical consultation;6;Monday;3;118;10;10;37;253.957;95;No;High School;0;No;No;0;83;172;28;3
+3;Dental consultation;6;Monday;3;179;51;18;38;253.957;95;No;High School;0;Yes;No;0;89;170;31;3
+34;Dental consultation;6;Tuesday;3;118;10;10;37;253.957;95;No;High School;0;No;No;0;83;172;28;2
+28;Medical consultation;6;Thursday;3;225;26;9;28;253.957;95;No;High School;1;No;No;2;69;169;24;4
+20;Dental consultation;6;Friday;3;260;50;11;36;253.957;95;No;High School;4;Yes;No;0;65;168;23;4
+3;NA;6;Friday;3;179;51;18;38;253.957;95;Yes;High School;0;Yes;No;0;89;170;31;0
+15;Diseases of the musculoskeletal system and connective tissue;6;Monday;3;291;31;12;40;253.957;95;No;High School;1;Yes;No;1;73;171;25;40
+3;Dental consultation;6;Monday;3;179;51;18;38;253.957;95;No;High School;0;Yes;No;0;89;170;31;24
+24;Dental consultation;6;Tuesday;3;246;25;16;41;253.957;95;No;High School;0;Yes;No;0;67;170;23;3
+3;Dental consultation;6;Monday;3;179;51;18;38;253.957;95;No;High School;0;Yes;No;0;89;170;31;4
+5;Unjustified absence;6;Tuesday;3;235;20;13;43;253.957;95;No;High School;1;Yes;No;0;106;167;38;8
+3;Dental consultation;6;Monday;1;179;51;18;38;253.957;95;No;High School;0;Yes;No;0;89;170;31;2
+28;Medical consultation;6;Wednesday;1;225;26;9;28;253.957;95;No;High School;1;No;No;2;69;169;24;2
+36;Medical consultation;6;Wednesday;1;118;13;18;50;253.957;95;No;High School;1;Yes;No;0;98;178;31;2
+3;Mental and behavioural disorders;6;Wednesday;1;179;51;18;38;253.957;95;No;High School;0;Yes;No;0;89;170;31;8
+22;Factors influencing health status and contact with health services;6;Wednesday;1;179;26;9;30;253.957;95;No;Postgraduate;0;No;No;0;56;171;19;2
+24;Dental consultation;6;Friday;1;246;25;16;41;253.957;95;No;High School;0;Yes;No;0;67;170;23;2
+18;Diseases of the digestive system;6;Tuesday;1;330;16;4;28;253.957;95;No;Graduate;0;No;No;0;84;182;25;1
+1;Diseases of the musculoskeletal system and connective tissue;6;Tuesday;1;235;11;14;37;253.957;95;No;Postgraduate;1;No;No;1;88;172;29;8
+22;Medical consultation;7;Thursday;1;179;26;9;30;230.29;92;No;Postgraduate;0;No;No;0;56;171;19;2
+28;Laboratory examination;7;Thursday;1;225;26;9;28;230.29;92;No;High School;1;No;No;2;69;169;24;4
+20;Diseases of the musculoskeletal system and connective tissue;7;Friday;1;260;50;11;36;230.29;92;No;High School;4;Yes;No;0;65;168;23;8
+21;Diseases of the eye and adnexa;7;Monday;1;268;11;8;33;230.29;92;No;Graduate;0;No;No;0;79;178;25;8
+18;Laboratory examination;7;Friday;1;330;16;4;28;230.29;92;No;Graduate;0;No;No;0;84;182;25;8
+34;Unjustified absence;7;Friday;1;118;10;10;37;230.29;92;No;High School;0;No;No;0;83;172;28;8
+20;Unjustified absence;7;Monday;1;260;50;11;36;230.29;92;No;High School;4;Yes;No;0;65;168;23;4
+34;Dental consultation;7;Tuesday;1;118;10;10;37;230.29;92;No;High School;0;No;No;0;83;172;28;8
+26;Pregnancy, childbirth and the puerperium;7;Monday;1;300;26;13;43;230.29;92;No;High School;2;Yes;Yes;1;77;175;25;8
+2;Medical consultation;7;Monday;1;235;29;12;48;230.29;92;No;High School;1;No;Yes;5;88;163;33;1
+24;Dental consultation;7;Tuesday;1;246;25;16;41;230.29;92;No;High School;0;Yes;No;0;67;170;23;2
+28;Diseases of the circulatory system;7;Tuesday;1;225;26;9;28;230.29;92;No;High School;1;No;No;2;69;169;24;112
+3;Dental consultation;7;Tuesday;1;179;51;18;38;230.29;92;No;High School;0;Yes;No;0;89;170;31;1
+36;Medical consultation;7;Friday;1;118;13;18;50;230.29;92;No;High School;1;Yes;No;0;98;178;31;1
+10;Patient follow-up;7;Friday;1;361;52;3;28;230.29;92;No;High School;1;Yes;No;4;80;172;27;8
+11;Patient follow-up;7;Monday;1;289;36;13;33;230.29;92;No;High School;2;Yes;No;1;90;172;30;8
+5;Unjustified absence;7;Monday;1;235;20;13;43;230.29;92;No;High School;1;Yes;No;0;106;167;38;8
+24;Dental consultation;7;Tuesday;1;246;25;16;41;230.29;92;No;High School;0;Yes;No;0;67;170;23;2
+15;Dental consultation;7;Thursday;1;291;31;12;40;230.29;92;No;High School;1;Yes;No;1;73;171;25;1
+7;Medical consultation;7;Thursday;1;279;5;14;39;230.29;92;No;High School;2;Yes;Yes;0;68;168;24;2
+3;Laboratory examination;8;Thursday;1;179;51;18;38;249.797;93;No;High School;0;Yes;No;0;89;170;31;4
+17;Laboratory examination;8;Monday;1;179;22;17;40;249.797;93;No;Graduate;2;No;Yes;0;63;170;22;1
+24;Dental consultation;8;Tuesday;1;246;25;16;41;249.797;93;No;High School;0;Yes;No;0;67;170;23;4
+34;Dental consultation;8;Tuesday;1;118;10;10;37;249.797;93;No;High School;0;No;No;0;83;172;28;4
+11;Unjustified absence;8;Tuesday;1;289;36;13;33;249.797;93;No;High School;2;Yes;No;1;90;172;30;8
+5;Unjustified absence;8;Tuesday;1;235;20;13;43;249.797;93;No;High School;1;Yes;No;0;106;167;38;8
+15;Dental consultation;8;Thursday;1;291;31;12;40;249.797;93;No;High School;1;Yes;No;1;73;171;25;4
+3;Laboratory examination;8;Monday;1;179;51;18;38;249.797;93;No;High School;0;Yes;No;0;89;170;31;4
+17;Laboratory examination;8;Tuesday;1;179;22;17;40;249.797;93;No;Graduate;2;No;Yes;0;63;170;22;8
+18;Medical consultation;8;Thursday;1;330;16;4;28;249.797;93;No;Graduate;0;No;No;0;84;182;25;16
+1;Medical consultation;8;Tuesday;1;235;11;14;37;249.797;93;No;Postgraduate;1;No;No;1;88;172;29;4
+24;Dental consultation;8;Tuesday;1;246;25;16;41;249.797;93;No;High School;0;Yes;No;0;67;170;23;1
+34;Dental consultation;8;Tuesday;1;118;10;10;37;249.797;93;No;High School;0;No;No;0;83;172;28;5
+15;Dental consultation;8;Thursday;1;291;31;12;40;249.797;93;No;High School;1;Yes;No;1;73;171;25;2
+20;Dental consultation;8;Monday;1;260;50;11;36;249.797;93;No;High School;4;Yes;No;0;65;168;23;3
+24;Dental consultation;9;Tuesday;1;246;25;16;41;261.756;87;No;High School;0;Yes;No;0;67;170;23;1
+24;Dental consultation;9;Tuesday;1;246;25;16;41;261.756;87;No;High School;0;Yes;No;0;67;170;23;1
+34;Dental consultation;9;Tuesday;1;118;10;10;37;261.756;87;No;High School;0;No;No;0;83;172;28;3
+14;Medical consultation;9;Tuesday;1;155;12;14;34;261.756;87;No;High School;2;Yes;No;0;95;196;25;2
+15;Dental consultation;9;Thursday;1;291;31;12;40;261.756;87;No;High School;1;Yes;No;1;73;171;25;2
+22;Medical consultation;9;Friday;1;179;26;9;30;261.756;87;No;Postgraduate;0;No;No;0;56;171;19;8
+33;Medical consultation;9;Friday;1;248;25;14;47;261.756;87;No;High School;2;No;No;1;86;165;32;1
+3;Medical consultation;9;Monday;1;179;51;18;38;261.756;87;No;High School;0;Yes;No;0;89;170;31;4
+28;Medical consultation;9;Wednesday;1;225;26;9;28;261.756;87;No;High School;1;No;No;2;69;169;24;1
+22;Medical consultation;9;Monday;1;179;26;9;30;261.756;87;No;Postgraduate;0;No;No;0;56;171;19;2
+13;Medical consultation;9;Tuesday;4;369;17;12;31;261.756;87;No;High School;3;Yes;No;0;70;169;25;8
+10;Patient follow-up;9;Tuesday;4;361;52;3;28;261.756;87;No;High School;1;Yes;No;4;80;172;27;8
+32;Endocrine, nutritional and metabolic diseases;10;Thursday;4;289;48;29;49;284.853;91;No;High School;0;No;No;2;108;172;36;1
+25;Diseases of the digestive system;10;Thursday;4;235;16;8;32;284.853;91;No;Postgraduate;0;No;No;0;75;178;25;3
+24;Unjustified absence;10;Friday;4;246;25;16;41;284.853;91;No;High School;0;Yes;No;0;67;170;23;8
+32;Diseases of the genitourinary system;10;Wednesday;4;289;48;29;49;284.853;91;No;High School;0;No;No;2;108;172;36;3
+15;Dental consultation;10;Wednesday;4;291;31;12;40;284.853;91;No;High School;1;Yes;No;1;73;171;25;2
+34;Medical consultation;10;Tuesday;4;118;10;10;37;284.853;91;No;High School;0;No;No;0;83;172;28;2
+32;Medical consultation;10;Thursday;4;289;48;29;49;284.853;91;No;High School;0;No;No;2;108;172;36;2
+15;Medical consultation;10;Friday;4;291;31;12;40;284.853;91;No;High School;1;Yes;No;1;73;171;25;1
+28;Medical consultation;10;Tuesday;4;225;26;9;28;284.853;91;No;High School;1;No;No;2;69;169;24;2
+13;Medical consultation;10;Tuesday;4;369;17;12;31;284.853;91;No;High School;3;Yes;No;0;70;169;25;8
+13;Medical consultation;10;Tuesday;4;369;17;12;31;284.853;91;No;High School;3;Yes;No;0;70;169;25;3
+28;Medical consultation;10;Tuesday;4;225;26;9;28;284.853;91;No;High School;1;No;No;2;69;169;24;4
+13;Unjustified absence;10;Tuesday;4;369;17;12;31;284.853;91;No;High School;3;Yes;No;0;70;169;25;8
+3;Dental consultation;10;Wednesday;4;179;51;18;38;284.853;91;No;High School;0;Yes;No;0;89;170;31;3
+9;Certain infectious and parasitic diseases;10;Wednesday;4;228;14;16;58;284.853;91;No;High School;2;No;No;1;65;172;22;1
+15;Medical consultation;10;Wednesday;4;291;31;12;40;284.853;91;No;High School;1;Yes;No;1;73;171;25;1
+13;Diseases of the respiratory system;10;Thursday;4;369;17;12;31;284.853;91;No;High School;3;Yes;No;0;70;169;25;8
+28;Diseases of the musculoskeletal system and connective tissue;10;Thursday;4;225;26;9;28;284.853;91;No;High School;1;No;No;2;69;169;24;1
+13;Diseases of the respiratory system;10;Friday;4;369;17;12;31;284.853;91;No;High School;3;Yes;No;0;70;169;25;8
+28;Diseases of the respiratory system;10;Friday;4;225;26;9;28;284.853;91;No;High School;1;No;No;2;69;169;24;3
+6;Medical consultation;10;Monday;4;189;29;13;33;284.853;91;No;High School;2;No;No;2;69;167;25;8
+25;Diseases of the nervous system;10;Monday;4;235;16;8;32;284.853;91;No;Postgraduate;0;No;No;0;75;178;25;8
+33;Diseases of the respiratory system;10;Monday;4;248;25;14;47;284.853;91;No;High School;2;No;No;1;86;165;32;8
+28;NA;10;Monday;4;225;26;9;28;284.853;91;Yes;High School;1;No;No;2;69;169;24;0
+28;Diseases of the musculoskeletal system and connective tissue;10;Tuesday;4;225;26;9;28;284.853;91;No;High School;1;No;No;2;69;169;24;3
+3;Factors influencing health status and contact with health services;11;Tuesday;4;179;51;18;38;268.519;93;No;High School;0;Yes;No;0;89;170;31;1
+34;Dental consultation;11;Wednesday;4;118;10;10;37;268.519;93;No;High School;0;No;No;0;83;172;28;3
+18;Neoplasms;11;Wednesday;4;330;16;4;28;268.519;93;No;Graduate;0;No;No;0;84;182;25;24
+3;Dental consultation;11;Friday;4;179;51;18;38;268.519;93;No;High School;0;Yes;No;0;89;170;31;1
+34;Diseases of the circulatory system;11;Tuesday;4;118;10;10;37;268.519;93;No;High School;0;No;No;0;83;172;28;8
+11;Blood donation;11;Wednesday;4;289;36;13;33;268.519;93;No;High School;2;Yes;No;1;90;172;30;8
+25;Certain infectious and parasitic diseases;11;Friday;4;235;16;8;32;268.519;93;No;Postgraduate;0;No;No;0;75;178;25;8
+28;Medical consultation;11;Friday;4;225;26;9;28;268.519;93;No;High School;1;No;No;2;69;169;24;4
+10;Patient follow-up;11;Tuesday;4;361;52;3;28;268.519;93;No;High School;1;Yes;No;4;80;172;27;8
+15;Dental consultation;11;Wednesday;4;291;31;12;40;268.519;93;No;High School;1;Yes;No;1;73;171;25;2
+34;Diseases of the musculoskeletal system and connective tissue;11;Thursday;4;118;10;10;37;268.519;93;No;High School;0;No;No;0;83;172;28;2
+28;Diseases of the genitourinary system;11;Thursday;4;225;26;9;28;268.519;93;No;High School;1;No;No;2;69;169;24;3
+3;Dental consultation;11;Monday;4;179;51;18;38;268.519;93;No;High School;0;Yes;No;0;89;170;31;1
+34;Medical consultation;11;Monday;4;118;10;10;37;268.519;93;No;High School;0;No;No;0;83;172;28;8
+34;Diseases of the ear and mastoid process;11;Tuesday;4;118;10;10;37;268.519;93;No;High School;0;No;No;0;83;172;28;8
+28;Medical consultation;11;Tuesday;4;225;26;9;28;268.519;93;No;High School;1;No;No;2;69;169;24;2
+15;NA;11;Tuesday;4;291;31;12;40;268.519;93;Yes;High School;1;Yes;No;1;73;171;25;0
+11;NA;11;Wednesday;4;289;36;13;33;268.519;93;Yes;High School;2;Yes;No;1;90;172;30;0
+33;Diseases of the genitourinary system;11;Thursday;4;248;25;14;47;268.519;93;No;High School;2;No;No;1;86;165;32;4
+5;NA;11;Thursday;4;235;20;13;43;268.519;93;Yes;High School;1;Yes;No;0;106;167;38;0
+28;Medical consultation;11;Friday;4;225;26;9;28;268.519;93;No;High School;1;No;No;2;69;169;24;2
+13;Unjustified absence;11;Friday;4;369;17;12;31;268.519;93;No;High School;3;Yes;No;0;70;169;25;8
+10;Dental consultation;11;Monday;4;361;52;3;28;268.519;93;No;High School;1;Yes;No;4;80;172;27;2
+3;Diseases of the musculoskeletal system and connective tissue;12;Tuesday;4;179;51;18;38;280.549;98;No;High School;0;Yes;No;0;89;170;31;32
+15;Dental consultation;12;Wednesday;4;291;31;12;40;280.549;98;No;High School;1;Yes;No;1;73;171;25;1
+28;Medical consultation;12;Wednesday;4;225;26;9;28;280.549;98;No;High School;1;No;No;2;69;169;24;3
+22;Diseases of the musculoskeletal system and connective tissue;12;Friday;4;179;26;9;30;280.549;98;No;Postgraduate;0;No;No;0;56;171;19;1
+28;Medical consultation;12;Friday;4;225;26;9;28;280.549;98;No;High School;1;No;No;2;69;169;24;3
+28;Medical consultation;12;Wednesday;4;225;26;9;28;280.549;98;No;High School;1;No;No;2;69;169;24;3
+10;Diseases of the genitourinary system;12;Thursday;4;361;52;3;28;280.549;98;No;High School;1;Yes;No;4;80;172;27;4
+17;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;12;Friday;4;179;22;17;40;280.549;98;No;Graduate;2;No;Yes;0;63;170;22;2
+5;Unjustified absence;12;Friday;4;235;20;13;43;280.549;98;No;High School;1;Yes;No;0;106;167;38;8
+12;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;12;Monday;4;233;51;1;31;280.549;98;No;Graduate;1;Yes;No;8;68;178;21;8
+22;Diseases of the musculoskeletal system and connective tissue;12;Tuesday;4;179;26;9;30;280.549;98;No;Postgraduate;0;No;No;0;56;171;19;16
+28;Medical consultation;12;Tuesday;4;225;26;9;28;280.549;98;No;High School;1;No;No;2;69;169;24;2
+28;Medical consultation;12;Thursday;4;225;26;9;28;280.549;98;No;High School;1;No;No;2;69;169;24;3
+28;Medical consultation;12;Monday;4;225;26;9;28;280.549;98;No;High School;1;No;No;2;69;169;24;2
+14;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;12;Tuesday;2;155;12;14;34;280.549;98;No;High School;2;Yes;No;0;95;196;25;80
+22;Diseases of the skin and subcutaneous tissue;1;Monday;2;179;26;9;30;313.532;96;No;Postgraduate;0;No;No;0;56;171;19;24
+22;Diseases of the skin and subcutaneous tissue;1;Thursday;2;179;26;9;30;313.532;96;No;Postgraduate;0;No;No;0;56;171;19;16
+17;Laboratory examination;1;Thursday;2;179;22;17;40;313.532;96;No;Graduate;2;No;Yes;0;63;170;22;2
+17;Laboratory examination;1;Friday;2;179;22;17;40;313.532;96;No;Graduate;2;No;Yes;0;63;170;22;2
+22;Diseases of the musculoskeletal system and connective tissue;1;Monday;2;179;26;9;30;313.532;96;No;Postgraduate;0;No;No;0;56;171;19;3
+17;Laboratory examination;1;Wednesday;2;179;22;17;40;313.532;96;No;Graduate;2;No;Yes;0;63;170;22;2
+32;Diseases of the respiratory system;1;Thursday;2;289;48;29;49;313.532;96;No;High School;0;No;No;2;108;172;36;8
+17;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;1;Friday;2;179;22;17;40;313.532;96;No;Graduate;2;No;Yes;0;63;170;22;3
+22;Physiotherapy;1;Monday;2;179;26;9;30;313.532;96;No;Postgraduate;0;No;No;0;56;171;19;2
+14;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;1;Tuesday;2;155;12;14;34;313.532;96;No;High School;2;Yes;No;0;95;196;25;8
+22;Physiotherapy;1;Wednesday;2;179;26;9;30;313.532;96;No;Postgraduate;0;No;No;0;56;171;19;2
+3;Physiotherapy;1;Wednesday;2;179;51;18;38;313.532;96;No;High School;0;Yes;No;0;89;170;31;3
+11;Diseases of the musculoskeletal system and connective tissue;1;Wednesday;2;289;36;13;33;313.532;96;No;High School;2;Yes;No;1;90;172;30;8
+3;Physiotherapy;1;Thursday;2;179;51;18;38;313.532;96;No;High School;0;Yes;No;0;89;170;31;3
+3;Physiotherapy;1;Friday;2;179;51;18;38;313.532;96;No;High School;0;Yes;No;0;89;170;31;2
+3;Diseases of the musculoskeletal system and connective tissue;2;Tuesday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;8
+28;Medical consultation;2;Tuesday;2;225;26;9;28;264.249;97;No;High School;1;No;No;2;69;169;24;3
+33;Certain infectious and parasitic diseases;2;Wednesday;2;248;25;14;47;264.249;97;No;High School;2;No;No;1;86;165;32;8
+3;Physiotherapy;2;Wednesday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;2
+28;Dental consultation;2;Thursday;2;225;26;9;28;264.249;97;No;High School;1;No;No;2;69;169;24;3
+3;Physiotherapy;2;Thursday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;2
+22;Physiotherapy;2;Thursday;2;179;26;9;30;264.249;97;No;Postgraduate;0;No;No;0;56;171;19;2
+29;Dental consultation;2;Friday;2;225;15;15;41;264.249;97;No;Master and Doctor;2;Yes;No;2;94;182;28;2
+3;Physiotherapy;2;Friday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;2
+12;Injury, poisoning and certain other consequences of external causes;2;Monday;2;233;51;1;31;264.249;97;No;Graduate;1;Yes;No;8;68;178;21;2
+3;Physiotherapy;2;Monday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;2
+28;Diseases of the eye and adnexa;2;Tuesday;2;225;26;9;28;264.249;97;No;High School;1;No;No;2;69;169;24;8
+3;Physiotherapy;2;Wednesday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;3
+3;Physiotherapy;2;Thursday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;3
+28;Laboratory examination;2;Thursday;2;225;26;9;28;264.249;97;No;High School;1;No;No;2;69;169;24;3
+22;Diseases of the musculoskeletal system and connective tissue;2;Thursday;2;179;26;9;30;264.249;97;No;Postgraduate;0;No;No;0;56;171;19;2
+17;Medical consultation;2;Friday;2;179;22;17;40;264.249;97;No;Graduate;2;No;Yes;0;63;170;22;2
+3;Physiotherapy;2;Friday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;3
+12;Diseases of the skin and subcutaneous tissue;2;Wednesday;2;233;51;1;31;264.249;97;No;Graduate;1;Yes;No;8;68;178;21;3
+22;Physiotherapy;2;Wednesday;2;179;26;9;30;264.249;97;No;Postgraduate;0;No;No;0;56;171;19;2
+3;Physiotherapy;2;Wednesday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;2
+3;Diseases of the musculoskeletal system and connective tissue;2;Thursday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;8
+3;Physiotherapy;2;Friday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;2
+14;Laboratory examination;2;Monday;2;155;12;14;34;264.249;97;No;High School;2;Yes;No;0;95;196;25;5
+25;Laboratory examination;2;Monday;2;235;16;8;32;264.249;97;No;Postgraduate;0;No;No;0;75;178;25;3
+3;Physiotherapy;2;Monday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;2
+28;Diseases of the eye and adnexa;2;Monday;2;225;26;9;28;264.249;97;No;High School;1;No;No;2;69;169;24;2
+3;Physiotherapy;2;Tuesday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;2
+33;Medical consultation;2;Tuesday;2;248;25;14;47;264.249;97;No;High School;2;No;No;1;86;165;32;2
+28;Laboratory examination;2;Tuesday;2;225;26;9;28;264.249;97;No;High School;1;No;No;2;69;169;24;2
+3;Physiotherapy;2;Wednesday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;2
+3;Physiotherapy;2;Thursday;2;179;51;18;38;264.249;97;No;High School;0;Yes;No;0;89;170;31;2
+25;Laboratory examination;2;Friday;2;235;16;8;32;264.249;97;No;Postgraduate;0;No;No;0;75;178;25;2
+3;Physiotherapy;3;Monday;2;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;2
+33;Medical consultation;3;Monday;2;248;25;14;47;222.196;99;No;High School;2;No;No;1;86;165;32;2
+9;Laboratory examination;3;Tuesday;2;228;14;16;58;222.196;99;No;High School;2;No;No;1;65;172;22;3
+33;Laboratory examination;3;Tuesday;2;248;25;14;47;222.196;99;No;High School;2;No;No;1;86;165;32;3
+9;Diseases of the skin and subcutaneous tissue;3;Tuesday;2;228;14;16;58;222.196;99;No;High School;2;No;No;1;65;172;22;112
+3;Physiotherapy;3;Wednesday;2;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;2
+28;Physiotherapy;3;Thursday;2;225;26;9;28;222.196;99;No;High School;1;No;No;2;69;169;24;2
+3;Physiotherapy;3;Thursday;2;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;3
+28;Laboratory examination;3;Thursday;2;225;26;9;28;222.196;99;No;High School;1;No;No;2;69;169;24;2
+22;Physiotherapy;3;Friday;2;179;26;9;30;222.196;99;No;Postgraduate;0;No;No;0;56;171;19;3
+25;Laboratory examination;3;Monday;2;235;16;8;32;222.196;99;No;Postgraduate;0;No;No;0;75;178;25;3
+10;Injury, poisoning and certain other consequences of external causes;3;Monday;2;361;52;3;28;222.196;99;No;High School;1;Yes;No;4;80;172;27;8
+3;Diseases of the musculoskeletal system and connective tissue;3;Tuesday;2;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;8
+3;Physiotherapy;3;Wednesday;2;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;2
+3;Physiotherapy;3;Thursday;2;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;3
+22;Physiotherapy;3;Friday;2;179;26;9;30;222.196;99;No;Postgraduate;0;No;No;0;56;171;19;2
+3;Diseases of the respiratory system;3;Monday;2;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;4
+33;Diseases of the musculoskeletal system and connective tissue;3;Monday;2;248;25;14;47;222.196;99;No;High School;2;No;No;1;86;165;32;2
+3;Physiotherapy;3;Monday;2;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;3
+28;Diseases of the eye and adnexa;3;Monday;2;225;26;9;28;222.196;99;No;High School;1;No;No;2;69;169;24;8
+3;Physiotherapy;3;Tuesday;2;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;2
+11;Medical consultation;3;Wednesday;2;289;36;13;33;222.196;99;No;High School;2;Yes;No;1;90;172;30;8
+9;Laboratory examination;3;Wednesday;2;228;14;16;58;222.196;99;No;High School;2;No;No;1;65;172;22;2
+3;Physiotherapy;3;Wednesday;2;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;2
+33;Medical consultation;3;Thursday;2;248;25;14;47;222.196;99;No;High School;2;No;No;1;86;165;32;3
+3;Physiotherapy;3;Thursday;2;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;3
+22;Medical consultation;3;Friday;2;179;26;9;30;222.196;99;No;Postgraduate;0;No;No;0;56;171;19;2
+3;Physiotherapy;3;Friday;2;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;3
+3;Physiotherapy;3;Tuesday;3;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;3
+16;Medical consultation;3;Wednesday;3;118;15;24;46;222.196;99;No;High School;2;Yes;Yes;0;75;175;25;8
+14;Diseases of the musculoskeletal system and connective tissue;3;Wednesday;3;155;12;14;34;222.196;99;No;High School;2;Yes;No;0;95;196;25;24
+3;Physiotherapy;3;Wednesday;3;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;3
+3;Physiotherapy;3;Thursday;3;179;51;18;38;222.196;99;No;High School;0;Yes;No;0;89;170;31;3
+22;Diseases of the musculoskeletal system and connective tissue;3;Monday;3;179;26;9;30;222.196;99;No;Postgraduate;0;No;No;0;56;171;19;2
+11;Injury, poisoning and certain other consequences of external causes;3;Monday;3;289;36;13;33;222.196;99;No;High School;2;Yes;No;1;90;172;30;104
+13;Patient follow-up;3;Wednesday;3;369;17;12;31;222.196;99;No;High School;3;Yes;No;0;70;169;25;8
+28;Diseases of the musculoskeletal system and connective tissue;4;Monday;3;225;26;9;28;246.288;91;No;High School;1;No;No;2;69;169;24;8
+34;Diseases of the respiratory system;4;Monday;3;118;10;10;37;246.288;91;No;High School;0;No;No;0;83;172;28;8
+10;Injury, poisoning and certain other consequences of external causes;4;Tuesday;3;361;52;3;28;246.288;91;No;High School;1;Yes;No;4;80;172;27;8
+33;Injury, poisoning and certain other consequences of external causes;4;Wednesday;3;248;25;14;47;246.288;91;No;High School;2;No;No;1;86;165;32;8
+6;Diseases of the musculoskeletal system and connective tissue;4;Thursday;3;189;29;13;33;246.288;91;No;High School;2;No;No;2;69;167;25;8
+22;Physiotherapy;4;Friday;3;179;26;9;30;246.288;91;No;Postgraduate;0;No;No;0;56;171;19;2
+13;Diseases of the eye and adnexa;4;Monday;3;369;17;12;31;246.288;91;No;High School;3;Yes;No;0;70;169;25;24
+17;Certain conditions originating in the perinatal period;4;Tuesday;3;179;22;17;40;246.288;91;No;Graduate;2;No;Yes;0;63;170;22;2
+36;Medical consultation;4;Tuesday;3;118;13;18;50;246.288;91;No;High School;1;Yes;No;0;98;178;31;3
+10;Medical consultation;4;Tuesday;3;361;52;3;28;246.288;91;No;High School;1;Yes;No;4;80;172;27;2
+34;Diseases of the respiratory system;4;Wednesday;3;118;10;10;37;246.288;91;No;High School;0;No;No;0;83;172;28;2
+1;Patient follow-up;4;Friday;3;235;11;14;37;246.288;91;No;Postgraduate;1;No;No;1;88;172;29;8
+22;Physiotherapy;4;Friday;3;179;26;9;30;246.288;91;No;Postgraduate;0;No;No;0;56;171;19;2
+28;Injury, poisoning and certain other consequences of external causes;4;Monday;3;225;26;9;28;246.288;91;No;High School;1;No;No;2;69;169;24;8
+25;Certain conditions originating in the perinatal period;4;Tuesday;3;235;16;8;32;246.288;91;No;Postgraduate;0;No;No;0;75;178;25;3
+22;Physiotherapy;4;Friday;3;179;26;9;30;246.288;91;No;Postgraduate;0;No;No;0;56;171;19;2
+14;Dental consultation;4;Tuesday;3;155;12;14;34;246.288;91;No;High School;2;Yes;No;0;95;196;25;4
+28;Injury, poisoning and certain other consequences of external causes;4;Thursday;3;225;26;9;28;246.288;91;No;High School;1;No;No;2;69;169;24;8
+36;Diseases of the genitourinary system;4;Thursday;3;118;13;18;50;246.288;91;No;High School;1;Yes;No;0;98;178;31;2
+22;Physiotherapy;4;Friday;3;179;26;9;30;246.288;91;No;Postgraduate;0;No;No;0;56;171;19;2
+1;Patient follow-up;5;Monday;3;235;11;14;37;237.656;99;No;Postgraduate;1;No;No;1;88;172;29;8
+29;Injury, poisoning and certain other consequences of external causes;5;Wednesday;3;225;15;15;41;237.656;99;No;Master and Doctor;2;Yes;No;2;94;182;28;3
+25;Dental consultation;5;Wednesday;3;235;16;8;32;237.656;99;No;Postgraduate;0;No;No;0;75;178;25;2
+34;Diseases of the ear and mastoid process;5;Wednesday;3;118;10;10;37;237.656;99;No;High School;0;No;No;0;83;172;28;3
+5;Unjustified absence;5;Wednesday;3;235;20;13;43;237.656;99;No;High School;1;Yes;No;0;106;167;38;8
+22;Diseases of the musculoskeletal system and connective tissue;5;Thursday;3;179;26;9;30;237.656;99;No;Postgraduate;0;No;No;0;56;171;19;1
+15;Dental consultation;5;Thursday;3;291;31;12;40;237.656;99;No;High School;1;Yes;No;1;73;171;25;2
+29;Diseases of the genitourinary system;5;Thursday;3;225;15;15;41;237.656;99;No;Master and Doctor;2;Yes;No;2;94;182;28;8
+26;Injury, poisoning and certain other consequences of external causes;5;Friday;3;300;26;13;43;237.656;99;No;High School;2;Yes;Yes;1;77;175;25;64
+29;Patient follow-up;5;Friday;3;225;15;15;41;237.656;99;No;Master and Doctor;2;Yes;No;2;94;182;28;8
+22;Physiotherapy;5;Friday;3;179;26;9;30;237.656;99;No;Postgraduate;0;No;No;0;56;171;19;2
+36;Medical consultation;5;Monday;3;118;13;18;50;237.656;99;No;High School;1;Yes;No;0;98;178;31;2
+36;Mental and behavioural disorders;5;Tuesday;3;118;13;18;50;237.656;99;No;High School;1;Yes;No;0;98;178;31;3
+34;Dental consultation;5;Tuesday;3;118;10;10;37;237.656;99;No;High School;0;No;No;0;83;172;28;1
+36;NA;5;Tuesday;3;118;13;18;50;237.656;99;Yes;High School;1;Yes;No;0;98;178;31;0
+22;Physiotherapy;5;Wednesday;3;179;26;9;30;237.656;99;No;Postgraduate;0;No;No;0;56;171;19;2
+23;NA;5;Wednesday;3;378;49;11;36;237.656;99;Yes;High School;2;No;Yes;4;65;174;21;0
+17;Certain conditions originating in the perinatal period;5;Friday;3;179;22;17;40;237.656;99;No;Graduate;2;No;Yes;0;63;170;22;1
+14;Diseases of the respiratory system;5;Monday;3;155;12;14;34;237.656;99;No;High School;2;Yes;No;0;95;196;25;48
+25;Diseases of the respiratory system;5;Monday;3;235;16;8;32;237.656;99;No;Postgraduate;0;No;No;0;75;178;25;8
+15;Patient follow-up;5;Wednesday;3;291;31;12;40;237.656;99;No;High School;1;Yes;No;1;73;171;25;8
+17;Diseases of the respiratory system;5;Wednesday;3;179;22;17;40;237.656;99;No;Graduate;2;No;Yes;0;63;170;22;8
+28;Diseases of the nervous system;5;Wednesday;3;225;26;9;28;237.656;99;No;High School;1;No;No;2;69;169;24;3
+18;Diseases of the respiratory system;5;Thursday;3;330;16;4;28;237.656;99;No;Graduate;0;No;No;0;84;182;25;8
+25;Medical consultation;5;Thursday;3;235;16;8;32;237.656;99;No;Postgraduate;0;No;No;0;75;178;25;2
+15;Dental consultation;5;Thursday;3;291;31;12;40;237.656;99;No;High School;1;Yes;No;1;73;171;25;2
+22;Physiotherapy;5;Friday;3;179;26;9;30;237.656;99;No;Postgraduate;0;No;No;0;56;171;19;2
+10;Diseases of the eye and adnexa;5;Monday;3;361;52;3;28;237.656;99;No;High School;1;Yes;No;4;80;172;27;8
+14;Medical consultation;5;Wednesday;3;155;12;14;34;237.656;99;No;High School;2;Yes;No;0;95;196;25;2
+17;Laboratory examination;5;Friday;3;179;22;17;40;237.656;99;No;Graduate;2;No;Yes;0;63;170;22;8
+14;Diseases of the respiratory system;5;Friday;3;155;12;14;34;237.656;99;No;High School;2;Yes;No;0;95;196;25;8
+28;Diseases of the digestive system;5;Monday;3;225;26;9;28;237.656;99;No;High School;1;No;No;2;69;169;24;1
+16;Diseases of the eye and adnexa;6;Wednesday;3;118;15;24;46;275.089;96;No;High School;2;Yes;Yes;0;75;175;25;8
+22;Physiotherapy;6;Wednesday;3;179;26;9;30;275.089;96;No;Postgraduate;0;No;No;0;56;171;19;3
+34;Unjustified absence;6;Friday;3;118;10;10;37;275.089;96;No;High School;0;No;No;0;83;172;28;8
+34;Diseases of the respiratory system;6;Wednesday;3;118;10;10;37;275.089;96;No;High School;0;No;No;0;83;172;28;8
+23;Patient follow-up;6;Thursday;3;378;49;11;36;275.089;96;No;High School;2;No;Yes;4;65;174;21;8
+36;Injury, poisoning and certain other consequences of external causes;6;Thursday;3;118;13;18;50;275.089;96;No;High School;1;Yes;No;0;98;178;31;24
+12;Injury, poisoning and certain other consequences of external causes;6;Friday;3;233;51;1;31;275.089;96;No;Graduate;1;Yes;No;8;68;178;21;8
+22;Physiotherapy;6;Friday;3;179;26;9;30;275.089;96;No;Postgraduate;0;No;No;0;56;171;19;2
+2;NA;6;Monday;3;235;29;12;48;275.089;96;Yes;High School;1;No;Yes;5;88;163;33;0
+21;NA;6;Monday;3;268;11;8;33;275.089;96;Yes;Graduate;0;No;No;0;79;178;25;0
+36;Injury, poisoning and certain other consequences of external causes;6;Thursday;3;118;13;18;50;275.089;96;No;High School;1;Yes;No;0;98;178;31;3
+22;Diseases of the musculoskeletal system and connective tissue;6;Thursday;3;179;26;9;30;275.089;96;No;Postgraduate;0;No;No;0;56;171;19;2
+15;Dental consultation;6;Thursday;3;291;31;12;40;275.089;96;No;High School;1;Yes;No;1;73;171;25;2
+22;Diseases of the musculoskeletal system and connective tissue;6;Monday;1;179;26;9;30;275.089;96;No;Postgraduate;0;No;No;0;56;171;19;3
+34;Laboratory examination;6;Monday;1;118;10;10;37;275.089;96;No;High School;0;No;No;0;83;172;28;3
+12;Patient follow-up;6;Thursday;1;233;51;1;31;275.089;96;No;Graduate;1;Yes;No;8;68;178;21;8
+34;Diseases of the ear and mastoid process;6;Friday;1;118;10;10;37;275.089;96;No;High School;0;No;No;0;83;172;28;2
+34;Diseases of the respiratory system;6;Wednesday;1;118;10;10;37;275.089;96;No;High School;0;No;No;0;83;172;28;3
+12;Patient follow-up;6;Wednesday;1;233;51;1;31;275.089;96;No;Graduate;1;Yes;No;8;68;178;21;3
+5;Unjustified absence;7;Wednesday;1;235;20;13;43;264.604;93;No;High School;1;Yes;No;0;106;167;38;4
+12;Injury, poisoning and certain other consequences of external causes;7;Friday;1;233;51;1;31;264.604;93;No;Graduate;1;Yes;No;8;68;178;21;2
+9;Diseases of the nervous system;7;Monday;1;228;14;16;58;264.604;93;No;High School;2;No;No;1;65;172;22;8
+34;Dental consultation;7;Monday;1;118;10;10;37;264.604;93;No;High School;0;No;No;0;83;172;28;4
+9;Diseases of the nervous system;7;Tuesday;1;228;14;16;58;264.604;93;No;High School;2;No;No;1;65;172;22;120
+6;Patient follow-up;7;Tuesday;1;189;29;13;33;264.604;93;No;High School;2;No;No;2;69;167;25;16
+34;Medical consultation;7;Wednesday;1;118;10;10;37;264.604;93;No;High School;0;No;No;0;83;172;28;2
+10;Patient follow-up;7;Wednesday;1;361;52;3;28;264.604;93;No;High School;1;Yes;No;4;80;172;27;8
+28;Patient follow-up;7;Wednesday;1;225;26;9;28;264.604;93;No;High School;1;No;No;2;69;169;24;8
+13;Diseases of the musculoskeletal system and connective tissue;7;Monday;1;369;17;12;31;264.604;93;No;High School;3;Yes;No;0;70;169;25;80
+11;Diseases of the genitourinary system;7;Tuesday;1;289;36;13;33;264.604;93;No;High School;2;Yes;No;1;90;172;30;8
+1;Diseases of the digestive system;7;Tuesday;1;235;11;14;37;264.604;93;No;Postgraduate;1;No;No;1;88;172;29;4
+4;NA;0;Tuesday;1;118;14;13;40;271.219;95;No;High School;1;Yes;No;8;98;170;34;0
+8;NA;0;Wednesday;2;231;35;14;39;271.219;95;No;High School;2;Yes;No;2;100;170;35;0
+35;NA;0;Friday;3;179;45;14;53;271.219;95;No;High School;1;No;No;1;77;175;25;0
