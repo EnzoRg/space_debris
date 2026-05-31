@@ -40,9 +40,10 @@ El desarrollo de este proyecto se divide de la siguiente manera:
 
 - [Introducción a los Satélites](docs/intro_satelites.md)
 - [Descripción de los Datos](docs/dataset.md)
-- [Análisis y Visualización](docs/analisis_y_visualizacion.md)
-- [Análisis Exploratorio y Curación de Datos](docs/analisis_exploratorio.md)
-- [Aprendizaje Supervisado y/o No Supervisado](docs/aprendizaje.md)
+- [Desarrollo del proyecto](docs/desarrollo.md)
+    - [Análisis y Visualización](docs/analisis_y_visualizacion.md)
+    - [Análisis Exploratorio y Curación de Datos](docs/analisis_exploratorio.md)
+    - [Aprendizaje Supervisado y/o No Supervisado](docs/aprendizaje.md)
 - [Resultados y Conclusiones](docs/resultados.md)
 
 ## 📚 Referencias
