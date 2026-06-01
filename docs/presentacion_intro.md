@@ -40,8 +40,6 @@ Puede ser:
 
 En este proyecto, cuando hablamos de satélites nos referimos a satélites artificiales.
 
-![bg right:42% width:90%](../data/images/voyager.jpg)
-
 ## ¿Para qué se usan?
 
 Existen miles de satélites artificiales con objetivos muy distintos:
@@ -74,14 +72,11 @@ Los satélites permiten:
 - Mejor predicción y gestión de fenómenos naturales.
 - Nuevas fuentes de datos para ciencia, industria y políticas públicas.
 
-![bg right:42% width:95%](../data/images/goes19.jpg)
-
 ## El modelo New Space
 
 New Space es una forma moderna de pensar la industria espacial.
 
 Frente al modelo tradicional, dominado por agencias gubernamentales y proyectos de alto costo, New Space impulsa un ecosistema más ágil, comercial y orientado a datos.
-
 
 
 ## New Space en la practica
@@ -106,8 +101,6 @@ Este tipo de misiones muestra una tendencia clave:
 - más satélites pequeños;
 - crecimiento acelerado de la población orbital.
 
-![bg right:42% width:95%](../data/images/transporter.jpg)
-
 ## La otra cara del crecimiento
 
 Más satélites también implica más complejidad:
@@ -130,9 +123,6 @@ Los desechos espaciales incluyen:
 - Objetos abandonados en órbita.
 
 Aunque muchos son pequeños, viajan a velocidades orbitales muy altas y pueden representar riesgo para satélites activos y misiones tripuladas.
-
-![bg right:42% width:90%](../data/images/evolution_in_all_orbits.jpeg)
-
 
 ## Clasificación de satélites
 
@@ -165,7 +155,6 @@ También se clasifican según la órbita que describen:
 
 ![bg right:45% width:95%](../data/images/orbitas.png)
 
----
 
 ## Inclinación orbital
 
@@ -178,7 +167,7 @@ Esta variable ayuda a entender qué regiones de la Tierra puede observar o cubri
 
 ![bg right:45% width:95%](../data/images/inclinacion.png)
 
-# Problema del proyecto
+## Problema del proyecto
 
 El crecimiento de satélites y desechos plantea preguntas de ciencia de datos:
 
@@ -188,9 +177,7 @@ El crecimiento de satélites y desechos plantea preguntas de ciencia de datos:
 - ¿Qué patrones aparecen antes de que un satélite quede fuera de servicio?
 - ¿Podemos estimar vida útil real o anticipar escenarios de riesgo?
 
----
-
-# Objetivo del proyecto
+## Objetivo del proyecto
 
 Predecir la vida útil real de un satélite antes de que quede fuera de servicio.
 
@@ -202,9 +189,7 @@ La idea es mejorar la comprensión del entorno espacial usando:
 - tipo de misión;
 - tecnicas de aprendizaje supervisado y no supervisado.
 
----
-
-# Dataset principal
+## Dataset principal
 
 Archivo: `data/raw/satellites_202602.csv`
 
@@ -214,9 +199,7 @@ Contiene datos actualizados hasta febrero de 2026 y combina:
 - **CelesTrack**: satélites activos en órbita.
 - **UCS Satellite Database**: propósito de misión, actualizado y curado.
 
----
-
-# Variables disponibles
+## Variables disponibles
 
 Algunas columnas relevantes:
 
@@ -229,9 +212,7 @@ Algunas columnas relevantes:
 - `ACTIVE`: estado activo.
 - `PURPOSE`: propósito de la misión.
 
----
-
-# Primeras cifras
+## Primeras cifras
 
 Total de registros: **59.997**
 
@@ -247,53 +228,7 @@ Por estado:
 
 Rango temporal de lanzamientos: **1957 a 2026**.
 
----
-
-# Objetos por tipo
-
-![width:950](../data/images/presentation/objetos_por_tipo.png)
-
----
-
-# Estado de actividad
-
-![width:950](../data/images/presentation/estado_actividad.png)
-
----
-
-# Actividad reciente
-
-![width:950](../data/images/presentation/actividad_reciente.png)
-
-La actividad reciente refuerza la necesidad de estudiar tendencias y escenarios futuros.
-
----
-
-# Payloads por propósito
-
-![width:950](../data/images/presentation/payloads_por_proposito.png)
-
-Entre los payloads, predominan comunicaciones y desarrollo tecnológico.
-
----
-
-# Distribución orbital aproximada
-
-![width:950](../data/images/presentation/distribucion_orbital.png)
-
-La órbita baja terrestre concentra la mayor parte de los registros.
-
----
-
-# Países y organizaciones
-
-![width:950](../data/images/presentation/paises_top.png)
-
-Esta vista permite empezar a discutir responsabilidades históricas, volumen de actividad y generación de objetos en órbita.
-
----
-
-# Etapas de trabajo
+## Etapas de trabajo
 
 1. Comprender el dominio: satélites, órbitas, inclinación, velocidad y propósito.
 2. Explorar los datos: tipos de objeto, países, fechas, estados y valores faltantes.
@@ -301,9 +236,7 @@ Esta vista permite empezar a discutir responsabilidades históricas, volumen de 
 4. Modelar: clasificación, regresión, clustering o una combinación.
 5. Evaluar: comparar modelos y documentar limitaciones.
 
----
-
-# Posibles enfoques de aprendizaje
+## Posibles enfoques de aprendizaje
 
 - **Clasificación**: estimar estado, riesgo o categorías de objetos.
 - **Regresión**: estimar vida útil real.
@@ -312,9 +245,7 @@ Esta vista permite empezar a discutir responsabilidades históricas, volumen de 
 
 Modelos posibles: modelos base, Random Forest, Gradient Boosting, SVM y redes neuronales.
 
----
-
-# Preguntas para trabajar
+## Preguntas para trabajar
 
 - ¿Cómo evolucionó la cantidad de satélites y debris?
 - ¿Qué variables influyen más en la vida útil real?
@@ -323,9 +254,7 @@ Modelos posibles: modelos base, Random Forest, Gradient Boosting, SVM y redes ne
 - ¿Cómo impacta New Space en la población orbital?
 - ¿Podemos proyectar la cantidad de desechos en los próximos años?
 
----
-
-# Cierre
+## Cierre
 
 El espacio cercano a la Tierra ya no puede pensarse como un recurso ilimitado.
 
