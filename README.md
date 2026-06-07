@@ -29,13 +29,14 @@ Como extensión del trabajo, también se podrá explorar la estimación de la vi
 
 El proyecto busca responder las siguientes preguntas:
 
-- **¿Cómo ha evolucionado la cantidad de satélites y desechos espaciales en los últimos años?**
+- **¿Cómo ha evolucionado la cantidad de satélites y desechos espaciales a lo largo del tiempo?**
+- **¿Qué proporción de los objetos orbitales corresponde a satélites activos, objetos inactivos o desechos?**
+- **¿Qué países u organizaciones concentran mayor cantidad de objetos en órbita?**
 - **¿Qué características diferencian a los objetos activos de los no activos?**
-- **¿Podemos estimar la probabilidad de que un objeto orbital continúe activo?**
-- **¿Qué variables orbitales, históricas o de misión influyen más en el estado operativo?**
-- **¿Existen patrones en la distribución de objetos activos e inactivos en diferentes órbitas?**
-- **¿Qué países u organizaciones concentran mayor cantidad de objetos orbitales?**
-- **¿Puede el análisis de datos ayudar a anticipar escenarios de congestión o riesgo orbital?**
+- **¿Qué variables orbitales, históricas o de misión parecen estar asociadas al estado operativo?**
+- **¿Existen patrones según tipo de objeto, propósito de misión, país responsable o tipo de órbita?**
+- **¿Podemos predecir si un objeto orbital seguirá activo utilizando sus características disponibles?**
+- **¿Qué información puede aportar el análisis de datos para anticipar escenarios de congestión o riesgo orbital?**
 
 ## 🗃 Datos
 
