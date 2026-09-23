@@ -1,19 +1,32 @@
 {
     "name": "space-debris-2026",
     "build": {
-        "dockerfile": "../Dockerfile",
-        "context": ".."
+        "dockerfile": "./Dockerfile",
+        "context": "."
     },
-    "workspaceFolder": "/workspace",
-    "mounts": [
-        "source=${localWorkspaceFolder},target=/workspace,type=bind"
-    ],
+    "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
     "customizations": {
         "vscode": {
             "extensions": [
                 "ms-python.python",
-                "ms-toolsai.jupyter"
-            ]
+                "ms-toolsai.jupyter",
+                "charliermarsh.ruff"
+            ],
+            "settings": {
+                "python.defaultInterpreterPath": "/usr/local/bin/python",
+                "python.testing.pytestEnabled": true,
+                "python.testing.unittestEnabled": false,
+                "jupyter.askForKernelRestart": false,
+                "editor.formatOnSave": true,
+                "editor.codeActionsOnSave": {
+                    "source.fixAll.ruff": "explicit",
+                    "source.organizeImports.ruff": "explicit"
+                }
+            }
         }
-    }
+    },
+    "otherPortsAttributes": {
+        "onAutoForward": "ignore"
+    },
+    "remoteUser": "vscode"
 }
