@@ -43,7 +43,7 @@ Posteriormente se explorarán algoritmos más avanzados (Random Forest, Gradient
     - Documentar y comparar los resultados de distintos algoritmos.
     - Seleccionar el modelo final en función de la métrica más relevante para los objetivos del proyecto.
 
-Se recomienda ver el [notebook de ejemplo](../notebooks/students_performance.ipynb) para comprender y aplicar los distintos tipos de aprendizaje. A partir del dataset *Student Performance* (UCI), el notebook recorre el flujo completo:
+Se recomienda ver el [notebook de ejemplo](../notebooks/students_performance.ipynb) y el [documento](../docs/metricas_clasificacion.md) para comprender y aplicar los distintos tipos de aprendizaje. A partir del dataset *Student Performance* (UCI), el notebook recorre el flujo completo:
 
 - Exploración de los datos y definición de la variable objetivo (clasificación binaria: aprueba / desaprueba).
 - División estratificada en entrenamiento y test, y validación cruzada con `StratifiedKFold`.
